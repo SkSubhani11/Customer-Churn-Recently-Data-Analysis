@@ -1,0 +1,2001 @@
+﻿CustomerID,Gender,Age,Tenure,MonthlyCharges,TotalCharges,Contract,InternetService,StreamingTV,PaymentMethod,Churn
+C00001,Male,64,53,38.34,2032.02,Two year,Fiber,Yes,Credit Card,No
+C00002,Female,29,59,90.93,5364.87,One year,DSL,Yes,UPI,No
+C00003,Male,33,41,33.73,1382.93,Month-to-Month,Fiber,No,UPI,No
+C00004,Male,41,68,25.89,1760.52,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00005,Male,36,68,105.33,7162.44,Month-to-Month,DSL,Yes,Credit Card,No
+C00006,Female,25,8,89.57,716.56,Month-to-Month,5G,Yes,UPI,No
+C00007,Male,48,2,30.66,61.32,One year,Fiber,Yes,Credit Card,No
+C00008,Male,38,41,24.54,1006.14,Two year,DSL,Yes,Auto-Debit,No
+C00009,Male,34,55,148.67,8176.85,Two year,Fiber,No,Credit Card,Yes
+C00010,Female,40,16,23.9,382.4,One year,DSL,Yes,Auto-Debit,Yes
+C00011,Male,54,62,77.79,4822.98,Month-to-Month,5G,No,Credit Card,No
+C00012,Male,33,48,85.6,4108.8,Month-to-Month,5G,No,Credit Card,No
+C00013,Male,23,30,35.25,1057.5,Month-to-Month,DSL,Yes,Credit Card,No
+C00014,Male,25,12,41.98,503.76,One year,Fiber,Yes,Auto-Debit,No
+C00015,Female,42,35,65.73,2300.55,One year,5G,No,Auto-Debit,Yes
+C00016,Male,35,11,119.02,1309.22,Month-to-Month,DSL,No,Credit Card,Yes
+C00017,Female,42,64,85.92,5498.88,Month-to-Month,Fiber,Yes,Credit Card,No
+C00018,Female,29,50,102.93,5146.5,Month-to-Month,Fiber,No,UPI,No
+C00019,Female,32,21,148.07,3109.47,Month-to-Month,5G,Yes,UPI,No
+C00020,Male,43,69,119.84,8268.96,Month-to-Month,5G,Yes,Auto-Debit,No
+C00021,Female,58,48,76.47,3670.56,Month-to-Month,Fiber,Yes,Credit Card,No
+C00022,Male,62,20,78.04,1560.8,Month-to-Month,DSL,Yes,UPI,Yes
+C00023,Female,43,67,100.44,6729.48,Two year,5G,Yes,Auto-Debit,No
+C00024,Female,64,44,106.5,4686,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00025,Female,49,33,85.09,2807.97,Month-to-Month,Fiber,Yes,UPI,No
+C00026,Female,27,61,103.83,6333.63,Month-to-Month,DSL,Yes,Credit Card,No
+C00027,Female,33,9,23.06,207.54,Month-to-Month,Fiber,No,Credit Card,No
+C00028,Female,24,68,75.85,5157.8,Month-to-Month,Fiber,No,UPI,No
+C00029,Female,34,35,56.26,1969.1,Month-to-Month,DSL,No,UPI,No
+C00030,Female,40,65,36.79,2391.35,Month-to-Month,5G,Yes,Auto-Debit,No
+C00031,Male,43,8,32.94,263.52,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00032,Male,38,45,98.41,4428.45,One year,DSL,Yes,UPI,Yes
+C00033,Female,39,47,88.07,4139.29,Month-to-Month,Fiber,Yes,UPI,No
+C00034,Female,24,40,52.97,2118.8,One year,Fiber,Yes,UPI,No
+C00035,Female,31,54,81.22,4385.88,Month-to-Month,DSL,No,Credit Card,No
+C00036,Male,32,46,83.99,3863.54,Month-to-Month,Fiber,No,Credit Card,Yes
+C00037,Female,24,47,45.35,2131.45,Month-to-Month,5G,Yes,UPI,No
+C00038,Male,26,15,104.77,1571.55,Month-to-Month,Fiber,No,Credit Card,Yes
+C00039,Male,68,19,121.52,2308.88,Two year,Fiber,Yes,Credit Card,No
+C00040,Male,65,26,122.89,3195.14,One year,Fiber,Yes,Credit Card,No
+C00041,Male,25,52,98.32,5112.64,Two year,5G,No,Credit Card,No
+C00042,Male,67,22,86.51,1903.22,Two year,Fiber,Yes,Credit Card,No
+C00043,Female,40,21,27.93,586.53,One year,Fiber,Yes,UPI,No
+C00044,Female,46,51,57.42,2928.42,Month-to-Month,Fiber,No,UPI,Yes
+C00045,Female,35,38,32.13,1220.94,Month-to-Month,5G,No,UPI,No
+C00046,Female,48,20,145.3,2906,Two year,Fiber,No,UPI,Yes
+C00047,Female,47,29,37.56,1089.24,One year,Fiber,No,Auto-Debit,No
+C00048,Male,69,51,39.73,2026.23,Month-to-Month,Fiber,No,Credit Card,No
+C00049,Female,56,4,135.64,542.56,One year,DSL,Yes,UPI,No
+C00050,Female,52,55,142.71,7849.05,Month-to-Month,Fiber,Yes,Credit Card,No
+C00051,Male,35,71,119.56,8488.76,Month-to-Month,Fiber,Yes,UPI,Yes
+C00052,Female,59,28,20.7,579.6,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00053,Male,56,4,20.18,80.72,One year,DSL,Yes,Auto-Debit,No
+C00054,Female,34,22,69.15,1521.3,Two year,DSL,Yes,UPI,No
+C00055,Male,31,45,38.64,1738.8,Month-to-Month,DSL,Yes,UPI,No
+C00056,Female,48,67,22.39,1500.13,Month-to-Month,5G,Yes,UPI,No
+C00057,Female,41,66,80.33,5301.78,Month-to-Month,5G,No,Credit Card,No
+C00058,Male,52,34,142.6,4848.4,One year,Fiber,Yes,UPI,No
+C00059,Male,61,55,62.1,3415.5,Month-to-Month,DSL,Yes,UPI,Yes
+C00060,Male,62,1,105.95,105.95,Month-to-Month,DSL,No,Credit Card,No
+C00061,Male,51,38,104.79,3982.02,Month-to-Month,5G,No,Credit Card,No
+C00062,Male,20,6,52.64,315.84,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00063,Male,54,25,104.56,2614,Month-to-Month,DSL,Yes,Credit Card,No
+C00064,Male,60,17,47.6,809.2,One year,Fiber,Yes,Credit Card,No
+C00065,Male,57,61,35.86,2187.46,Month-to-Month,5G,Yes,UPI,Yes
+C00066,Female,43,12,111.18,1334.16,One year,Fiber,Yes,Credit Card,Yes
+C00067,Female,40,6,34.75,208.5,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C00068,Male,61,27,149.6,4039.2,Month-to-Month,Fiber,Yes,UPI,No
+C00069,Female,56,8,43.85,350.8,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00070,Female,32,65,97.24,6320.6,One year,DSL,Yes,Credit Card,No
+C00071,Female,66,57,73.48,4188.36,Two year,Fiber,No,Auto-Debit,Yes
+C00072,Female,21,40,36.43,1457.2,Two year,Fiber,No,Auto-Debit,No
+C00073,Male,46,14,23.62,330.68,Month-to-Month,5G,Yes,Credit Card,No
+C00074,Female,39,35,100.96,3533.6,Month-to-Month,Fiber,Yes,Credit Card,No
+C00075,Male,42,48,124.88,5994.24,One year,DSL,Yes,Auto-Debit,No
+C00076,Female,30,56,129.46,7249.76,One year,Fiber,Yes,Credit Card,No
+C00077,Female,35,49,82.75,4054.75,Month-to-Month,Fiber,Yes,Credit Card,No
+C00078,Female,50,13,121.07,1573.91,One year,5G,Yes,Credit Card,No
+C00079,Male,33,61,107.47,6555.67,Month-to-Month,DSL,Yes,Credit Card,No
+C00080,Female,62,49,114.15,5593.35,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00081,Male,59,46,84.04,3865.84,Month-to-Month,5G,Yes,UPI,No
+C00082,Female,61,62,102.34,6345.08,Month-to-Month,5G,Yes,UPI,No
+C00083,Male,19,8,124.72,997.76,Month-to-Month,5G,Yes,Credit Card,Yes
+C00084,Female,52,43,71.72,3083.96,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00085,Male,59,20,124.78,2495.6,Month-to-Month,Fiber,No,UPI,No
+C00086,Male,51,39,96.96,3781.44,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00087,Female,47,49,41.57,2036.93,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00088,Male,30,64,23.21,1485.44,One year,Fiber,Yes,Auto-Debit,No
+C00089,Female,30,62,67.16,4163.92,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00090,Female,35,54,91.07,4917.78,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00091,Female,49,9,129.18,1162.62,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00092,Female,49,37,36.57,1353.09,Two year,Fiber,Yes,Credit Card,Yes
+C00093,Female,52,49,124.03,6077.47,Month-to-Month,DSL,No,Credit Card,No
+C00094,Female,56,41,132.19,5419.79,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C00095,Female,63,17,39.59,673.03,Month-to-Month,5G,No,UPI,No
+C00096,Female,69,21,130.71,2744.91,One year,DSL,No,Auto-Debit,Yes
+C00097,Female,46,51,148.89,7593.39,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00098,Female,66,59,114.49,6754.91,Month-to-Month,5G,No,Credit Card,Yes
+C00099,Female,46,39,122.02,4758.78,Month-to-Month,DSL,No,Auto-Debit,No
+C00100,Male,61,55,149.27,8209.85,Month-to-Month,5G,Yes,Credit Card,No
+C00101,Male,33,41,98.71,4047.11,One year,Fiber,Yes,Credit Card,Yes
+C00102,Female,61,39,60.03,2341.17,Two year,Fiber,No,UPI,No
+C00103,Female,64,13,128.88,1675.44,One year,Fiber,Yes,Credit Card,No
+C00104,Female,27,64,99.88,6392.32,One year,Fiber,No,UPI,No
+C00105,Female,47,11,95.56,1051.16,Month-to-Month,5G,Yes,UPI,Yes
+C00106,Female,42,19,52.97,1006.43,Month-to-Month,Fiber,Yes,Credit Card,No
+C00107,Female,56,11,118.32,1301.52,One year,DSL,Yes,Auto-Debit,No
+C00108,Female,37,46,30.62,1408.52,Month-to-Month,DSL,Yes,UPI,No
+C00109,Female,22,45,140.16,6307.2,Two year,DSL,Yes,Credit Card,No
+C00110,Male,18,1,62.36,62.36,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00111,Female,47,40,36.61,1464.4,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00112,Male,66,19,77.51,1472.69,One year,Fiber,Yes,Auto-Debit,Yes
+C00113,Female,20,61,25.52,1556.72,One year,Fiber,Yes,Credit Card,No
+C00114,Female,62,12,109,1308,One year,DSL,No,Credit Card,Yes
+C00115,Male,31,61,137.35,8378.35,Month-to-Month,DSL,No,Auto-Debit,No
+C00116,Female,47,33,128.84,4251.72,One year,Fiber,Yes,UPI,Yes
+C00117,Male,67,45,36.56,1645.2,Month-to-Month,5G,Yes,Credit Card,No
+C00118,Female,21,69,36.42,2512.98,Month-to-Month,Fiber,Yes,UPI,No
+C00119,Female,35,8,125.75,1006,Two year,Fiber,No,UPI,No
+C00120,Male,54,25,140.15,3503.75,One year,Fiber,No,Auto-Debit,Yes
+C00121,Female,42,46,79.89,3674.94,Month-to-Month,DSL,Yes,Credit Card,No
+C00122,Male,65,30,84.87,2546.1,One year,DSL,Yes,UPI,No
+C00123,Female,18,47,61.37,2884.39,Month-to-Month,Fiber,No,Credit Card,No
+C00124,Male,63,49,136.25,6676.25,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C00125,Male,32,47,103.84,4880.48,Month-to-Month,DSL,No,Auto-Debit,No
+C00126,Female,26,18,57.47,1034.46,Two year,Fiber,No,Auto-Debit,No
+C00127,Female,32,66,58.84,3883.44,Month-to-Month,Fiber,Yes,UPI,No
+C00128,Male,66,68,135.86,9238.48,One year,DSL,Yes,UPI,Yes
+C00129,Female,41,33,21.77,718.41,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00130,Female,21,36,61.95,2230.2,One year,5G,Yes,Credit Card,Yes
+C00131,Female,29,19,92.07,1749.33,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00132,Male,54,28,39.27,1099.56,One year,DSL,Yes,Credit Card,No
+C00133,Male,54,40,31.97,1278.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00134,Male,60,15,125.99,1889.85,One year,5G,Yes,UPI,No
+C00135,Male,23,41,136.27,5587.07,Two year,Fiber,Yes,Auto-Debit,No
+C00136,Male,56,39,127.07,4955.73,One year,DSL,Yes,Auto-Debit,No
+C00137,Male,63,2,136.84,273.68,Month-to-Month,DSL,Yes,UPI,No
+C00138,Male,41,63,91.9,5789.7,Two year,Fiber,No,UPI,No
+C00139,Male,28,29,125.59,3642.11,Month-to-Month,Fiber,No,Auto-Debit,No
+C00140,Male,30,66,69.93,4615.38,One year,DSL,Yes,Credit Card,No
+C00141,Female,51,51,106.61,5437.11,Two year,5G,Yes,Auto-Debit,No
+C00142,Male,42,10,148.55,1485.5,Month-to-Month,Fiber,Yes,UPI,No
+C00143,Female,24,14,49.34,690.76,Month-to-Month,Fiber,No,Credit Card,No
+C00144,Female,69,51,70.69,3605.19,Month-to-Month,5G,Yes,Credit Card,Yes
+C00145,Female,21,39,82.41,3213.99,Month-to-Month,Fiber,Yes,UPI,No
+C00146,Male,25,28,37.94,1062.32,One year,5G,No,Credit Card,Yes
+C00147,Male,37,3,30.54,91.62,Month-to-Month,DSL,Yes,Credit Card,Yes
+C00148,Male,46,70,127.86,8950.2,Month-to-Month,DSL,Yes,Credit Card,No
+C00149,Male,68,27,146.98,3968.46,Month-to-Month,Fiber,Yes,Credit Card,No
+C00150,Female,62,2,72.61,145.22,Month-to-Month,Fiber,Yes,UPI,No
+C00151,Male,63,38,31.39,1192.82,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00152,Male,27,3,28.56,85.68,Two year,5G,No,Credit Card,Yes
+C00153,Male,60,16,135.87,2173.92,Month-to-Month,5G,Yes,UPI,Yes
+C00154,Male,51,40,80.3,3212,Two year,Fiber,No,Credit Card,No
+C00155,Male,43,2,61.6,123.2,Month-to-Month,Fiber,Yes,UPI,No
+C00156,Female,58,41,81.94,3359.54,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00157,Male,66,12,61.38,736.56,One year,5G,Yes,UPI,No
+C00158,Female,20,35,83.57,2924.95,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00159,Male,23,65,131.74,8563.1,Month-to-Month,Fiber,Yes,UPI,No
+C00160,Female,22,55,97,5335,Month-to-Month,Fiber,Yes,UPI,No
+C00161,Male,22,45,110.3,4963.5,Month-to-Month,Fiber,No,UPI,No
+C00162,Male,64,62,67.41,4179.42,Month-to-Month,5G,Yes,Auto-Debit,No
+C00163,Female,40,49,116.01,5684.49,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00164,Female,66,25,106.66,2666.5,Month-to-Month,Fiber,Yes,UPI,Yes
+C00165,Female,26,23,35.54,817.42,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00166,Male,52,24,94.44,2266.56,Month-to-Month,Fiber,Yes,Credit Card,No
+C00167,Female,37,38,53.38,2028.44,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00168,Male,66,28,124.53,3486.84,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00169,Male,59,21,75.37,1582.77,Month-to-Month,DSL,Yes,Credit Card,No
+C00170,Female,52,54,149.31,8062.74,Two year,Fiber,No,Credit Card,No
+C00171,Female,67,18,32.03,576.54,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00172,Male,35,36,121.45,4372.2,One year,Fiber,Yes,Auto-Debit,Yes
+C00173,Male,34,45,107.58,4841.1,Month-to-Month,DSL,No,Auto-Debit,No
+C00174,Female,41,53,119.77,6347.81,Two year,DSL,No,Auto-Debit,No
+C00175,Female,20,30,59.98,1799.4,Month-to-Month,DSL,No,UPI,Yes
+C00176,Female,49,60,83.97,5038.2,Two year,DSL,Yes,Auto-Debit,No
+C00177,Male,52,32,123.55,3953.6,One year,DSL,No,Auto-Debit,Yes
+C00178,Male,55,67,50.23,3365.41,Month-to-Month,Fiber,Yes,UPI,Yes
+C00179,Male,30,67,49.38,3308.46,Two year,5G,Yes,Credit Card,No
+C00180,Male,64,28,91.64,2565.92,Month-to-Month,Fiber,No,UPI,No
+C00181,Male,42,44,88.06,3874.64,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00182,Male,26,41,56.69,2324.29,One year,DSL,No,Auto-Debit,No
+C00183,Female,21,63,58.75,3701.25,Two year,Fiber,No,Auto-Debit,No
+C00184,Male,31,23,56.12,1290.76,Month-to-Month,5G,Yes,Auto-Debit,No
+C00185,Male,54,48,120.3,5774.4,Month-to-Month,Fiber,No,Auto-Debit,No
+C00186,Male,51,32,104.75,3352,One year,5G,Yes,Auto-Debit,No
+C00187,Female,28,57,128.21,7307.97,One year,5G,Yes,Auto-Debit,Yes
+C00188,Male,58,33,146.81,4844.73,Two year,5G,No,Credit Card,No
+C00189,Male,20,24,81.64,1959.36,One year,5G,No,UPI,Yes
+C00190,Female,45,39,28.67,1118.13,Month-to-Month,5G,No,UPI,No
+C00191,Male,46,34,26.25,892.5,Two year,DSL,No,Auto-Debit,No
+C00192,Male,26,56,58.44,3272.64,Month-to-Month,Fiber,No,UPI,No
+C00193,Male,20,28,141.23,3954.44,Month-to-Month,Fiber,No,Credit Card,Yes
+C00194,Male,42,37,88.02,3256.74,Month-to-Month,DSL,Yes,Credit Card,No
+C00195,Male,51,7,55.33,387.31,Month-to-Month,5G,Yes,UPI,No
+C00196,Female,29,68,71.89,4888.52,Month-to-Month,DSL,No,UPI,No
+C00197,Female,59,37,97.82,3619.34,One year,5G,Yes,Credit Card,No
+C00198,Female,26,56,104.88,5873.28,Month-to-Month,5G,Yes,Credit Card,No
+C00199,Male,32,65,40.01,2600.65,Month-to-Month,Fiber,Yes,UPI,No
+C00200,Male,57,65,147.01,9555.65,One year,Fiber,No,Credit Card,No
+C00201,Male,42,47,90.82,4268.54,Month-to-Month,Fiber,No,Credit Card,No
+C00202,Female,22,20,37.64,752.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00203,Male,28,19,136.17,2587.23,Month-to-Month,DSL,Yes,UPI,No
+C00204,Male,51,29,29.7,861.3,Two year,5G,No,UPI,No
+C00205,Female,41,60,138.01,8280.6,Month-to-Month,DSL,Yes,Credit Card,No
+C00206,Male,32,18,149.55,2691.9,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00207,Female,55,35,111.06,3887.1,Month-to-Month,Fiber,Yes,Credit Card,No
+C00208,Female,25,43,120.16,5166.88,Month-to-Month,Fiber,Yes,Credit Card,No
+C00209,Female,22,11,63.85,702.35,Month-to-Month,DSL,Yes,Credit Card,No
+C00210,Male,65,49,142.4,6977.6,Month-to-Month,Fiber,Yes,Credit Card,No
+C00211,Male,43,38,88.86,3376.68,Month-to-Month,Fiber,Yes,Credit Card,No
+C00212,Male,35,64,115.21,7373.44,Two year,Fiber,No,Credit Card,No
+C00213,Male,23,69,140.13,9668.97,Month-to-Month,Fiber,Yes,UPI,No
+C00214,Male,54,8,146.77,1174.16,Month-to-Month,5G,Yes,UPI,Yes
+C00215,Male,65,34,128.32,4362.88,Month-to-Month,Fiber,Yes,UPI,No
+C00216,Male,30,48,59.39,2850.72,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00217,Female,45,56,145.65,8156.4,One year,Fiber,Yes,Credit Card,No
+C00218,Male,22,65,101.66,6607.9,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00219,Female,30,31,140.98,4370.38,Month-to-Month,DSL,Yes,Credit Card,No
+C00220,Male,34,4,107.89,431.56,One year,DSL,Yes,UPI,No
+C00221,Male,67,50,59.94,2997,Month-to-Month,Fiber,No,Credit Card,Yes
+C00222,Male,57,69,68.1,4698.9,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00223,Female,62,30,91.56,2746.8,Month-to-Month,Fiber,Yes,UPI,No
+C00224,Female,49,59,122.7,7239.3,Month-to-Month,DSL,No,Credit Card,No
+C00225,Female,46,67,61.34,4109.78,Month-to-Month,Fiber,Yes,UPI,Yes
+C00226,Female,68,45,95.37,4291.65,Month-to-Month,Fiber,No,Credit Card,No
+C00227,Male,20,4,64.93,259.72,Month-to-Month,DSL,No,Auto-Debit,No
+C00228,Female,57,26,126.05,3277.3,Two year,5G,Yes,UPI,No
+C00229,Male,51,27,80.67,2178.09,Month-to-Month,DSL,No,Credit Card,No
+C00230,Male,57,46,29.97,1378.62,Month-to-Month,Fiber,No,Credit Card,No
+C00231,Female,44,64,41.59,2661.76,Month-to-Month,Fiber,No,Credit Card,No
+C00232,Female,30,51,27.94,1424.94,Month-to-Month,5G,No,UPI,No
+C00233,Female,62,50,84.91,4245.5,Month-to-Month,Fiber,Yes,Credit Card,No
+C00234,Female,50,6,33.82,202.92,Two year,Fiber,No,UPI,No
+C00235,Female,23,59,34.84,2055.56,One year,Fiber,Yes,Auto-Debit,No
+C00236,Female,41,15,142.34,2135.1,Two year,Fiber,Yes,Credit Card,No
+C00237,Female,36,30,133.45,4003.5,Two year,Fiber,Yes,Auto-Debit,Yes
+C00238,Female,33,42,78.77,3308.34,Month-to-Month,Fiber,Yes,UPI,Yes
+C00239,Male,57,37,148.15,5481.55,Month-to-Month,Fiber,Yes,Credit Card,No
+C00240,Female,45,42,20.02,840.84,Month-to-Month,5G,No,UPI,No
+C00241,Female,50,35,99.82,3493.7,Month-to-Month,Fiber,No,Auto-Debit,No
+C00242,Male,65,6,100.14,600.84,Two year,Fiber,Yes,UPI,Yes
+C00243,Female,58,68,79.47,5403.96,Month-to-Month,DSL,No,Credit Card,Yes
+C00244,Male,30,18,71.6,1288.8,Two year,DSL,No,Credit Card,No
+C00245,Male,60,29,79.2,2296.8,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00246,Female,62,59,73.94,4362.46,Two year,5G,Yes,UPI,No
+C00247,Male,42,47,114.96,5403.12,Two year,Fiber,No,UPI,Yes
+C00248,Male,59,17,37.6,639.2,One year,5G,Yes,Credit Card,No
+C00249,Male,53,22,45.69,1005.18,One year,Fiber,No,Auto-Debit,No
+C00250,Male,44,68,43.47,2955.96,Month-to-Month,Fiber,No,Auto-Debit,No
+C00251,Female,55,69,54.12,3734.28,One year,5G,Yes,Credit Card,No
+C00252,Male,24,37,88.28,3266.36,Two year,DSL,Yes,Credit Card,No
+C00253,Female,22,49,34.46,1688.54,One year,Fiber,Yes,Auto-Debit,No
+C00254,Male,60,13,132.86,1727.18,One year,Fiber,Yes,Auto-Debit,No
+C00255,Male,62,34,58.66,1994.44,One year,Fiber,Yes,UPI,No
+C00256,Male,68,53,41.13,2179.89,One year,DSL,No,Auto-Debit,Yes
+C00257,Male,48,51,107.83,5499.33,Month-to-Month,Fiber,Yes,UPI,Yes
+C00258,Female,40,3,24.95,74.85,One year,Fiber,No,Credit Card,No
+C00259,Female,59,42,100.6,4225.2,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00260,Male,27,32,110.77,3544.64,Month-to-Month,DSL,No,UPI,Yes
+C00261,Male,49,51,47.94,2444.94,Month-to-Month,5G,No,Auto-Debit,No
+C00262,Female,60,46,25.46,1171.16,Month-to-Month,DSL,No,Credit Card,No
+C00263,Male,47,21,67.27,1412.67,Month-to-Month,Fiber,No,UPI,No
+C00264,Male,56,44,32.82,1444.08,Month-to-Month,5G,Yes,Auto-Debit,No
+C00265,Male,48,11,35.14,386.54,Month-to-Month,DSL,No,Credit Card,No
+C00266,Female,35,68,53.05,3607.4,Month-to-Month,5G,No,Credit Card,No
+C00267,Female,53,1,58.41,58.41,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00268,Female,19,63,88.9,5600.7,One year,Fiber,No,UPI,Yes
+C00269,Male,31,24,108.19,2596.56,Two year,DSL,No,UPI,Yes
+C00270,Male,30,13,97.06,1261.78,One year,Fiber,Yes,Auto-Debit,No
+C00271,Female,46,11,39.29,432.19,Two year,DSL,Yes,Credit Card,Yes
+C00272,Female,29,51,42.37,2160.87,One year,5G,No,Auto-Debit,Yes
+C00273,Female,56,17,134.24,2282.08,Month-to-Month,5G,No,Auto-Debit,Yes
+C00274,Female,19,24,92.59,2222.16,One year,5G,Yes,UPI,No
+C00275,Male,49,19,133.09,2528.71,One year,DSL,Yes,UPI,No
+C00276,Female,30,37,68.3,2527.1,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00277,Male,63,8,99.87,798.96,Month-to-Month,Fiber,No,Credit Card,Yes
+C00278,Female,44,28,88.08,2466.24,One year,Fiber,No,Credit Card,No
+C00279,Male,66,5,61.49,307.45,Month-to-Month,DSL,Yes,Credit Card,Yes
+C00280,Female,58,17,81.09,1378.53,One year,Fiber,Yes,Credit Card,No
+C00281,Female,34,36,85.32,3071.52,Month-to-Month,Fiber,Yes,UPI,No
+C00282,Female,57,19,46.1,875.9,Month-to-Month,DSL,No,Auto-Debit,No
+C00283,Female,48,64,60.95,3900.8,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00284,Male,51,11,122.88,1351.68,Month-to-Month,5G,Yes,Credit Card,No
+C00285,Female,41,54,139.05,7508.7,Month-to-Month,DSL,Yes,UPI,No
+C00286,Male,62,45,66.77,3004.65,One year,DSL,Yes,UPI,No
+C00287,Male,52,47,59.91,2815.77,One year,DSL,Yes,Credit Card,No
+C00288,Male,65,12,45.38,544.56,Two year,5G,Yes,Auto-Debit,No
+C00289,Male,23,21,108.2,2272.2,Month-to-Month,DSL,No,Auto-Debit,No
+C00290,Female,36,11,62,682,One year,5G,Yes,Auto-Debit,No
+C00291,Male,47,5,148.41,742.05,Month-to-Month,5G,Yes,Credit Card,No
+C00292,Male,24,56,62.34,3491.04,Month-to-Month,5G,No,UPI,Yes
+C00293,Male,27,20,71.24,1424.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00294,Female,58,41,98.43,4035.63,Month-to-Month,Fiber,Yes,Credit Card,No
+C00295,Female,49,46,124.22,5714.12,Month-to-Month,Fiber,Yes,UPI,No
+C00296,Female,51,12,81.04,972.48,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C00297,Female,45,70,74.95,5246.5,One year,Fiber,Yes,Auto-Debit,No
+C00298,Male,32,17,149.43,2540.31,One year,Fiber,No,Auto-Debit,No
+C00299,Male,47,19,21.36,405.84,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00300,Female,54,26,136.36,3545.36,Month-to-Month,DSL,Yes,Credit Card,No
+C00301,Male,46,48,39.39,1890.72,Month-to-Month,DSL,No,UPI,No
+C00302,Male,39,52,122.17,6352.84,Month-to-Month,Fiber,No,Credit Card,No
+C00303,Male,21,70,100.33,7023.1,One year,DSL,Yes,Credit Card,Yes
+C00304,Female,37,55,64.44,3544.2,Month-to-Month,DSL,No,UPI,No
+C00305,Female,49,33,133.6,4408.8,One year,DSL,Yes,Auto-Debit,No
+C00306,Male,53,62,21.68,1344.16,Two year,5G,Yes,UPI,No
+C00307,Female,67,23,49.47,1137.81,Month-to-Month,Fiber,Yes,Credit Card,No
+C00308,Female,21,15,93.7,1405.5,Two year,Fiber,Yes,Credit Card,No
+C00309,Female,44,27,65.7,1773.9,Month-to-Month,Fiber,Yes,Credit Card,No
+C00310,Female,34,64,99.35,6358.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C00311,Female,29,51,23.13,1179.63,Month-to-Month,DSL,Yes,Credit Card,No
+C00312,Male,39,53,35.14,1862.42,Month-to-Month,Fiber,Yes,UPI,No
+C00313,Female,34,51,36.52,1862.52,Month-to-Month,Fiber,No,Auto-Debit,No
+C00314,Male,27,47,44.61,2096.67,Month-to-Month,Fiber,No,UPI,No
+C00315,Male,18,4,79.71,318.84,One year,Fiber,No,UPI,Yes
+C00316,Female,39,7,117.78,824.46,Two year,DSL,Yes,Credit Card,No
+C00317,Male,43,35,137.72,4820.2,One year,DSL,Yes,Auto-Debit,No
+C00318,Male,35,48,128.6,6172.8,Month-to-Month,Fiber,No,Credit Card,Yes
+C00319,Male,67,45,45.6,2052,One year,Fiber,No,Auto-Debit,No
+C00320,Female,31,19,77.35,1469.65,One year,Fiber,Yes,Auto-Debit,No
+C00321,Female,64,63,45.92,2892.96,One year,Fiber,No,Auto-Debit,No
+C00322,Male,46,38,54.38,2066.44,One year,5G,No,Credit Card,No
+C00323,Female,29,67,85.46,5725.82,Two year,Fiber,No,UPI,No
+C00324,Female,53,59,28.85,1702.15,Month-to-Month,DSL,Yes,Credit Card,No
+C00325,Female,52,69,48.36,3336.84,One year,5G,Yes,Credit Card,No
+C00326,Female,69,13,141.6,1840.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00327,Male,29,47,80.6,3788.2,Two year,Fiber,Yes,Auto-Debit,No
+C00328,Male,24,61,77.9,4751.9,Month-to-Month,5G,Yes,Auto-Debit,No
+C00329,Female,46,31,21.89,678.59,Month-to-Month,5G,Yes,Credit Card,No
+C00330,Female,28,22,52.16,1147.52,Month-to-Month,Fiber,No,UPI,Yes
+C00331,Male,50,43,132.62,5702.66,One year,DSL,Yes,Auto-Debit,Yes
+C00332,Male,23,67,41.4,2773.8,Month-to-Month,5G,Yes,UPI,No
+C00333,Female,64,54,73.97,3994.38,Month-to-Month,Fiber,Yes,Credit Card,No
+C00334,Male,32,10,21.86,218.6,Two year,5G,No,UPI,No
+C00335,Female,49,42,82.18,3451.56,Two year,Fiber,No,Auto-Debit,No
+C00336,Female,68,64,22.73,1454.72,Month-to-Month,DSL,Yes,UPI,Yes
+C00337,Male,28,21,126.55,2657.55,Month-to-Month,5G,No,Auto-Debit,Yes
+C00338,Male,40,66,127.23,8397.18,One year,5G,Yes,UPI,No
+C00339,Female,43,41,122.41,5018.81,Two year,Fiber,Yes,Credit Card,No
+C00340,Female,51,24,56.84,1364.16,Month-to-Month,Fiber,No,Credit Card,No
+C00341,Male,63,35,128.84,4509.4,One year,DSL,Yes,Credit Card,No
+C00342,Female,51,56,90.59,5073.04,Month-to-Month,DSL,Yes,UPI,Yes
+C00343,Male,46,30,68.6,2058,One year,DSL,Yes,Credit Card,No
+C00344,Female,21,57,101.29,5773.53,One year,5G,Yes,Auto-Debit,No
+C00345,Male,34,47,21.6,1015.2,Month-to-Month,5G,Yes,UPI,No
+C00346,Male,52,35,38.58,1350.3,Month-to-Month,Fiber,No,Auto-Debit,No
+C00347,Male,30,19,116.5,2213.5,Two year,Fiber,Yes,Auto-Debit,No
+C00348,Female,58,8,51.74,413.92,One year,Fiber,No,Auto-Debit,No
+C00349,Female,56,26,97.74,2541.24,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00350,Male,32,71,70.06,4974.26,One year,DSL,Yes,UPI,Yes
+C00351,Female,46,30,131.12,3933.6,One year,DSL,Yes,Credit Card,No
+C00352,Male,46,7,143.81,1006.67,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00353,Male,28,67,134.86,9035.62,One year,Fiber,Yes,Auto-Debit,Yes
+C00354,Female,69,65,55.18,3586.7,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00355,Female,49,36,45.24,1628.64,Two year,DSL,Yes,UPI,No
+C00356,Male,19,25,81.68,2042,Month-to-Month,Fiber,No,UPI,No
+C00357,Female,64,37,20.95,775.15,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00358,Female,31,1,23.36,23.36,Month-to-Month,Fiber,No,Auto-Debit,No
+C00359,Male,37,15,91.93,1378.95,One year,DSL,No,Credit Card,No
+C00360,Male,39,37,87.66,3243.42,One year,Fiber,Yes,Credit Card,Yes
+C00361,Female,28,13,149.3,1940.9,Two year,5G,Yes,UPI,No
+C00362,Male,44,8,46.24,369.92,One year,DSL,Yes,UPI,No
+C00363,Male,20,5,53.55,267.75,Month-to-Month,DSL,No,Credit Card,No
+C00364,Female,34,60,34.76,2085.6,Two year,DSL,Yes,Auto-Debit,No
+C00365,Male,61,1,139.28,139.28,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00366,Male,45,36,121.12,4360.32,One year,Fiber,Yes,UPI,No
+C00367,Female,46,35,126.9,4441.5,Month-to-Month,5G,Yes,UPI,No
+C00368,Female,38,66,137.36,9065.76,One year,DSL,Yes,Auto-Debit,No
+C00369,Male,64,63,88.24,5559.12,One year,5G,No,Credit Card,No
+C00370,Male,33,23,78.66,1809.18,One year,DSL,Yes,Auto-Debit,Yes
+C00371,Female,54,9,62.95,566.55,Month-to-Month,Fiber,No,Credit Card,No
+C00372,Female,37,34,96.6,3284.4,Month-to-Month,Fiber,No,Credit Card,Yes
+C00373,Female,23,46,79.06,3636.76,Month-to-Month,DSL,Yes,UPI,Yes
+C00374,Female,36,4,78.7,314.8,One year,Fiber,Yes,Auto-Debit,No
+C00375,Male,22,30,141.8,4254,Month-to-Month,Fiber,Yes,Credit Card,No
+C00376,Female,20,3,147.92,443.76,Two year,5G,Yes,Credit Card,Yes
+C00377,Female,18,14,123.54,1729.56,Month-to-Month,Fiber,Yes,UPI,No
+C00378,Male,55,60,118.38,7102.8,Month-to-Month,Fiber,No,UPI,No
+C00379,Female,32,45,108.47,4881.15,One year,5G,Yes,UPI,No
+C00380,Male,51,34,41.59,1414.06,Month-to-Month,5G,Yes,Credit Card,No
+C00381,Female,52,45,27.68,1245.6,Two year,Fiber,Yes,UPI,Yes
+C00382,Female,66,61,109.79,6697.19,One year,5G,Yes,Credit Card,No
+C00383,Female,42,16,114.74,1835.84,Month-to-Month,5G,No,Credit Card,No
+C00384,Male,41,66,26.11,1723.26,Month-to-Month,Fiber,Yes,UPI,Yes
+C00385,Male,29,40,140.65,5626,Month-to-Month,Fiber,Yes,UPI,Yes
+C00386,Female,35,17,31.85,541.45,Month-to-Month,Fiber,Yes,Credit Card,No
+C00387,Male,32,34,57.17,1943.78,One year,DSL,No,Credit Card,No
+C00388,Male,61,16,107.41,1718.56,Month-to-Month,Fiber,Yes,UPI,No
+C00389,Male,33,60,42.08,2524.8,Month-to-Month,5G,No,Credit Card,Yes
+C00390,Male,44,66,27.2,1795.2,Month-to-Month,DSL,Yes,Credit Card,No
+C00391,Male,25,66,63.05,4161.3,Month-to-Month,DSL,Yes,UPI,No
+C00392,Male,63,13,119.58,1554.54,Month-to-Month,5G,Yes,Credit Card,Yes
+C00393,Female,42,56,73.78,4131.68,Two year,5G,Yes,Credit Card,No
+C00394,Female,34,31,104.89,3251.59,One year,Fiber,Yes,Auto-Debit,Yes
+C00395,Male,46,34,95.35,3241.9,One year,Fiber,Yes,Auto-Debit,No
+C00396,Female,25,39,22.89,892.71,One year,DSL,Yes,UPI,No
+C00397,Female,32,67,148.51,9950.17,Month-to-Month,Fiber,Yes,UPI,No
+C00398,Female,44,8,25.39,203.12,Two year,Fiber,Yes,Auto-Debit,Yes
+C00399,Female,63,55,145.81,8019.55,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00400,Male,67,27,91.48,2469.96,Month-to-Month,5G,No,UPI,No
+C00401,Female,69,53,145.21,7696.13,Month-to-Month,Fiber,Yes,Credit Card,No
+C00402,Female,24,39,34.92,1361.88,Month-to-Month,DSL,Yes,UPI,Yes
+C00403,Male,20,65,83.75,5443.75,One year,Fiber,Yes,UPI,Yes
+C00404,Male,46,17,42.04,714.68,Month-to-Month,DSL,No,UPI,No
+C00405,Female,61,30,26.63,798.9,One year,Fiber,No,UPI,No
+C00406,Female,41,53,100.28,5314.84,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C00407,Female,20,13,47.01,611.13,Month-to-Month,Fiber,Yes,UPI,No
+C00408,Female,37,21,96.4,2024.4,One year,DSL,No,Credit Card,No
+C00409,Female,63,19,34.61,657.59,Month-to-Month,Fiber,No,Credit Card,No
+C00410,Female,32,53,63.16,3347.48,Month-to-Month,Fiber,No,UPI,No
+C00411,Male,42,19,121.61,2310.59,Month-to-Month,Fiber,No,Credit Card,No
+C00412,Female,47,57,76.82,4378.74,One year,Fiber,No,Credit Card,Yes
+C00413,Female,31,25,101.61,2540.25,One year,Fiber,No,Credit Card,Yes
+C00414,Male,24,31,104.17,3229.27,Month-to-Month,Fiber,Yes,Credit Card,No
+C00415,Male,34,55,129.69,7132.95,Two year,DSL,Yes,Auto-Debit,No
+C00416,Male,61,23,62.24,1431.52,Two year,DSL,Yes,Credit Card,No
+C00417,Male,37,32,109.35,3499.2,One year,Fiber,No,Credit Card,No
+C00418,Female,53,62,145.01,8990.62,One year,DSL,No,Credit Card,No
+C00419,Female,26,10,114.93,1149.3,Month-to-Month,Fiber,Yes,UPI,Yes
+C00420,Female,55,54,83.68,4518.72,One year,DSL,Yes,Credit Card,No
+C00421,Female,65,52,101.99,5303.48,Month-to-Month,Fiber,Yes,UPI,No
+C00422,Female,39,20,116.16,2323.2,Month-to-Month,DSL,Yes,Credit Card,No
+C00423,Female,19,32,99.6,3187.2,Two year,Fiber,Yes,UPI,No
+C00424,Male,41,14,22.17,310.38,One year,5G,Yes,Auto-Debit,No
+C00425,Female,25,50,45.32,2266,Month-to-Month,Fiber,No,Credit Card,No
+C00426,Male,28,28,125.36,3510.08,Month-to-Month,Fiber,Yes,UPI,Yes
+C00427,Male,30,53,55.44,2938.32,One year,Fiber,Yes,UPI,Yes
+C00428,Female,34,24,115.1,2762.4,Month-to-Month,5G,Yes,Auto-Debit,No
+C00429,Male,25,22,68.38,1504.36,Month-to-Month,DSL,Yes,UPI,No
+C00430,Female,38,30,87.84,2635.2,Month-to-Month,DSL,No,UPI,Yes
+C00431,Male,35,63,28.84,1816.92,Month-to-Month,5G,Yes,Auto-Debit,No
+C00432,Female,47,4,43.56,174.24,One year,5G,Yes,UPI,No
+C00433,Male,35,59,144.44,8521.96,Month-to-Month,DSL,Yes,Credit Card,No
+C00434,Female,63,8,135.72,1085.76,One year,Fiber,Yes,Credit Card,No
+C00435,Female,64,12,104.8,1257.6,Month-to-Month,5G,Yes,Auto-Debit,No
+C00436,Female,48,31,79.75,2472.25,One year,Fiber,Yes,Auto-Debit,Yes
+C00437,Female,55,34,107.85,3666.9,Two year,DSL,Yes,Auto-Debit,No
+C00438,Female,49,49,100.42,4920.58,One year,DSL,Yes,Auto-Debit,No
+C00439,Male,28,57,93.91,5352.87,Two year,DSL,Yes,Auto-Debit,Yes
+C00440,Male,62,26,27.69,719.94,Two year,DSL,Yes,UPI,No
+C00441,Male,42,18,102.26,1840.68,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00442,Female,50,38,119.96,4558.48,One year,5G,No,UPI,No
+C00443,Male,55,50,149.23,7461.5,Two year,Fiber,No,UPI,No
+C00444,Female,58,8,21.44,171.52,Month-to-Month,Fiber,Yes,Credit Card,No
+C00445,Female,25,41,114.92,4711.72,Month-to-Month,DSL,Yes,Credit Card,No
+C00446,Male,28,6,94.33,565.98,Two year,5G,Yes,Auto-Debit,Yes
+C00447,Male,39,69,76.43,5273.67,One year,Fiber,Yes,UPI,No
+C00448,Female,68,44,36.58,1609.52,Month-to-Month,Fiber,Yes,Credit Card,No
+C00449,Male,41,64,73.18,4683.52,Month-to-Month,Fiber,No,Credit Card,Yes
+C00450,Female,58,29,66.07,1916.03,One year,Fiber,No,Auto-Debit,No
+C00451,Female,34,28,59.37,1662.36,Month-to-Month,5G,Yes,UPI,No
+C00452,Female,29,11,115.01,1265.11,One year,DSL,Yes,UPI,No
+C00453,Female,63,65,111.09,7220.85,One year,DSL,No,UPI,Yes
+C00454,Female,49,19,96.57,1834.83,One year,DSL,Yes,UPI,No
+C00455,Male,32,9,142.03,1278.27,Month-to-Month,DSL,Yes,Credit Card,Yes
+C00456,Male,33,27,65.48,1767.96,One year,Fiber,No,UPI,No
+C00457,Female,39,34,51.69,1757.46,One year,Fiber,No,Auto-Debit,No
+C00458,Female,45,44,105.27,4631.88,One year,Fiber,No,Credit Card,No
+C00459,Male,37,68,45.85,3117.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00460,Male,50,15,60.95,914.25,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00461,Female,27,51,49.2,2509.2,Two year,Fiber,Yes,UPI,No
+C00462,Male,57,13,28.99,376.87,Month-to-Month,Fiber,Yes,Credit Card,No
+C00463,Female,49,49,127.57,6250.93,Month-to-Month,Fiber,Yes,UPI,No
+C00464,Male,67,70,53.09,3716.3,Month-to-Month,DSL,No,UPI,No
+C00465,Female,50,56,81.49,4563.44,One year,Fiber,No,Auto-Debit,Yes
+C00466,Male,19,51,25.63,1307.13,Month-to-Month,5G,Yes,UPI,Yes
+C00467,Female,50,37,110.91,4103.67,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00468,Male,50,17,62.97,1070.49,Month-to-Month,DSL,Yes,UPI,No
+C00469,Male,58,58,116.82,6775.56,One year,5G,No,UPI,Yes
+C00470,Female,30,29,73.61,2134.69,Month-to-Month,5G,Yes,Credit Card,Yes
+C00471,Male,47,33,45.45,1499.85,Month-to-Month,5G,No,UPI,No
+C00472,Female,50,60,86.71,5202.6,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00473,Male,30,55,36.97,2033.35,Two year,Fiber,Yes,Credit Card,No
+C00474,Female,69,10,77.27,772.7,Month-to-Month,Fiber,No,UPI,No
+C00475,Male,43,47,61.25,2878.75,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00476,Female,39,23,138.55,3186.65,Month-to-Month,Fiber,Yes,UPI,No
+C00477,Male,56,21,27.92,586.32,Two year,5G,No,Auto-Debit,No
+C00478,Female,19,13,110.22,1432.86,One year,DSL,Yes,Credit Card,No
+C00479,Male,55,33,43.76,1444.08,Two year,DSL,Yes,Credit Card,Yes
+C00480,Female,56,24,61.48,1475.52,One year,5G,Yes,UPI,Yes
+C00481,Female,43,11,74.02,814.22,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00482,Female,63,17,138.04,2346.68,One year,DSL,No,Auto-Debit,No
+C00483,Male,67,68,51.54,3504.72,Month-to-Month,DSL,No,Credit Card,No
+C00484,Female,32,47,31.87,1497.89,Month-to-Month,Fiber,No,UPI,No
+C00485,Male,51,25,61.43,1535.75,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00486,Female,59,21,33.61,705.81,Month-to-Month,5G,Yes,Credit Card,No
+C00487,Male,61,12,36.72,440.64,Two year,5G,Yes,UPI,No
+C00488,Female,66,37,94.6,3500.2,Month-to-Month,5G,No,Credit Card,No
+C00489,Male,57,42,27.92,1172.64,Two year,Fiber,Yes,Credit Card,Yes
+C00490,Male,28,17,24.02,408.34,Month-to-Month,5G,No,Credit Card,Yes
+C00491,Female,20,48,112.87,5417.76,Month-to-Month,Fiber,No,Credit Card,No
+C00492,Male,23,28,67.01,1876.28,Two year,Fiber,Yes,Auto-Debit,No
+C00493,Male,26,41,36.3,1488.3,One year,Fiber,Yes,Auto-Debit,Yes
+C00494,Female,23,47,52.97,2489.59,One year,Fiber,Yes,Credit Card,Yes
+C00495,Male,26,18,103.47,1862.46,Month-to-Month,Fiber,No,Auto-Debit,No
+C00496,Male,56,71,55.82,3963.22,Month-to-Month,Fiber,Yes,UPI,No
+C00497,Male,48,13,84.29,1095.77,One year,Fiber,No,Auto-Debit,Yes
+C00498,Female,49,13,35.82,465.66,One year,Fiber,Yes,Credit Card,No
+C00499,Male,58,31,96.45,2989.95,Month-to-Month,DSL,No,UPI,No
+C00500,Female,67,2,61.09,122.18,Two year,DSL,Yes,Auto-Debit,No
+C00501,Male,29,16,101.51,1624.16,One year,Fiber,Yes,Credit Card,No
+C00502,Male,25,9,125.09,1125.81,Two year,Fiber,No,Auto-Debit,No
+C00503,Male,25,38,99.51,3781.38,One year,DSL,No,Auto-Debit,No
+C00504,Female,67,54,58.45,3156.3,One year,DSL,Yes,Auto-Debit,No
+C00505,Male,45,56,53.25,2982,Month-to-Month,Fiber,No,Credit Card,No
+C00506,Male,37,45,62.56,2815.2,Month-to-Month,DSL,No,Credit Card,No
+C00507,Female,64,34,41.4,1407.6,Two year,5G,Yes,Credit Card,No
+C00508,Male,24,9,43.55,391.95,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00509,Female,28,8,122.79,982.32,Month-to-Month,Fiber,No,Credit Card,Yes
+C00510,Female,37,7,70.02,490.14,Month-to-Month,Fiber,Yes,UPI,No
+C00511,Male,33,36,76.68,2760.48,Month-to-Month,DSL,Yes,UPI,No
+C00512,Female,21,18,97.23,1750.14,Two year,Fiber,No,Credit Card,No
+C00513,Male,23,3,96.65,289.95,Two year,Fiber,Yes,Credit Card,No
+C00514,Female,39,28,28.76,805.28,Month-to-Month,Fiber,Yes,UPI,Yes
+C00515,Female,43,70,128.1,8967,Month-to-Month,5G,No,Auto-Debit,No
+C00516,Male,20,44,43.05,1894.2,One year,DSL,Yes,Credit Card,No
+C00517,Female,58,21,114,2394,One year,DSL,No,Auto-Debit,No
+C00518,Female,59,28,120.45,3372.6,Two year,5G,No,UPI,No
+C00519,Female,31,54,112.94,6098.76,Month-to-Month,Fiber,Yes,UPI,No
+C00520,Female,28,54,95.27,5144.58,Month-to-Month,5G,Yes,UPI,No
+C00521,Female,35,65,21.9,1423.5,Month-to-Month,DSL,Yes,Credit Card,No
+C00522,Male,29,21,66.85,1403.85,Two year,Fiber,Yes,UPI,No
+C00523,Female,40,13,98.63,1282.19,One year,5G,No,Auto-Debit,No
+C00524,Male,29,57,70.37,4011.09,One year,5G,Yes,Credit Card,No
+C00525,Female,30,49,132.25,6480.25,Month-to-Month,5G,Yes,UPI,No
+C00526,Male,42,54,60.14,3247.56,One year,Fiber,Yes,Credit Card,Yes
+C00527,Male,62,10,58.16,581.6,One year,5G,Yes,Auto-Debit,No
+C00528,Female,68,53,54.58,2892.74,Month-to-Month,5G,Yes,UPI,No
+C00529,Female,36,44,63.26,2783.44,Month-to-Month,Fiber,Yes,UPI,No
+C00530,Female,63,47,92.46,4345.62,Month-to-Month,Fiber,Yes,Credit Card,No
+C00531,Male,53,53,111.91,5931.23,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00532,Female,62,46,106.13,4881.98,Month-to-Month,5G,Yes,Credit Card,No
+C00533,Male,25,13,125,1625,Month-to-Month,DSL,Yes,UPI,No
+C00534,Male,46,37,135.17,5001.29,Month-to-Month,Fiber,No,UPI,No
+C00535,Male,49,24,126.09,3026.16,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00536,Female,68,2,22.46,44.92,Month-to-Month,Fiber,Yes,Credit Card,No
+C00537,Female,61,14,115.67,1619.38,Two year,DSL,Yes,Auto-Debit,No
+C00538,Male,35,10,47.09,470.9,Month-to-Month,Fiber,Yes,Credit Card,No
+C00539,Male,23,35,37.28,1304.8,One year,5G,Yes,UPI,No
+C00540,Female,35,25,103,2575,Month-to-Month,DSL,No,UPI,No
+C00541,Male,36,3,61.57,184.71,One year,DSL,Yes,Auto-Debit,No
+C00542,Female,39,17,27.43,466.31,Month-to-Month,Fiber,No,UPI,Yes
+C00543,Male,54,12,37.89,454.68,One year,Fiber,Yes,Auto-Debit,No
+C00544,Female,49,54,20.12,1086.48,Month-to-Month,Fiber,Yes,Credit Card,No
+C00545,Male,58,24,137.42,3298.08,One year,Fiber,Yes,Auto-Debit,No
+C00546,Female,20,29,23.2,672.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00547,Male,45,43,47.23,2030.89,One year,5G,Yes,UPI,No
+C00548,Female,27,25,74.11,1852.75,Month-to-Month,Fiber,Yes,UPI,No
+C00549,Female,68,60,66.35,3981,Month-to-Month,Fiber,Yes,UPI,No
+C00550,Male,52,65,138.52,9003.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C00551,Male,46,28,25.24,706.72,One year,Fiber,Yes,UPI,No
+C00552,Female,32,16,86.59,1385.44,Two year,5G,Yes,Credit Card,No
+C00553,Male,50,47,108.46,5097.62,One year,Fiber,Yes,Credit Card,Yes
+C00554,Female,24,58,141.12,8184.96,Month-to-Month,Fiber,No,Credit Card,Yes
+C00555,Male,29,27,100.65,2717.55,Month-to-Month,DSL,No,UPI,Yes
+C00556,Female,66,53,124.49,6597.97,Two year,Fiber,Yes,Credit Card,Yes
+C00557,Female,47,42,30.88,1296.96,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00558,Female,38,59,70.17,4140.03,One year,Fiber,Yes,Credit Card,Yes
+C00559,Female,48,47,68.61,3224.67,Two year,Fiber,No,Credit Card,Yes
+C00560,Female,41,34,135.22,4597.48,Two year,Fiber,Yes,Auto-Debit,No
+C00561,Female,37,37,39.68,1468.16,Month-to-Month,Fiber,No,Auto-Debit,No
+C00562,Male,54,6,39.75,238.5,Month-to-Month,5G,Yes,Credit Card,No
+C00563,Male,21,7,62.71,438.97,Month-to-Month,Fiber,Yes,UPI,Yes
+C00564,Male,45,25,27.08,677,One year,DSL,Yes,UPI,No
+C00565,Female,61,33,43.72,1442.76,Month-to-Month,DSL,Yes,UPI,No
+C00566,Female,37,55,145.48,8001.4,Month-to-Month,DSL,No,UPI,Yes
+C00567,Female,41,58,75.66,4388.28,Month-to-Month,Fiber,Yes,Credit Card,No
+C00568,Female,67,7,102.16,715.12,Month-to-Month,Fiber,Yes,UPI,No
+C00569,Male,66,57,114.39,6520.23,One year,DSL,Yes,Credit Card,No
+C00570,Male,68,12,67.7,812.4,One year,DSL,Yes,Credit Card,No
+C00571,Female,49,16,39.14,626.24,Month-to-Month,DSL,Yes,UPI,No
+C00572,Male,58,43,46.86,2014.98,Month-to-Month,Fiber,Yes,UPI,No
+C00573,Male,53,7,60.72,425.04,Two year,5G,Yes,Credit Card,Yes
+C00574,Female,51,51,102.69,5237.19,Month-to-Month,Fiber,Yes,UPI,Yes
+C00575,Male,53,32,71.78,2296.96,One year,Fiber,No,Auto-Debit,No
+C00576,Female,19,8,20.89,167.12,Two year,Fiber,Yes,Auto-Debit,Yes
+C00577,Male,32,45,88.04,3961.8,Month-to-Month,Fiber,Yes,UPI,Yes
+C00578,Female,51,59,139.8,8248.2,Month-to-Month,Fiber,Yes,UPI,No
+C00579,Female,53,4,125.57,502.28,Two year,DSL,No,UPI,No
+C00580,Female,23,67,127.28,8527.76,Month-to-Month,5G,Yes,Credit Card,Yes
+C00581,Female,56,29,123.36,3577.44,Month-to-Month,5G,Yes,Credit Card,No
+C00582,Male,59,29,62.09,1800.61,Month-to-Month,Fiber,No,Credit Card,No
+C00583,Female,68,28,119.48,3345.44,Month-to-Month,DSL,Yes,UPI,No
+C00584,Female,68,44,38.61,1698.84,One year,Fiber,No,UPI,Yes
+C00585,Female,29,4,105.5,422,Two year,Fiber,Yes,Auto-Debit,No
+C00586,Male,20,9,103.4,930.6,One year,Fiber,Yes,Auto-Debit,No
+C00587,Female,62,5,23.32,116.6,Month-to-Month,Fiber,No,Credit Card,No
+C00588,Male,35,56,122.44,6856.64,Month-to-Month,Fiber,No,Credit Card,Yes
+C00589,Female,57,50,137.42,6871,One year,Fiber,Yes,Credit Card,No
+C00590,Male,38,15,54.76,821.4,Month-to-Month,DSL,No,Auto-Debit,No
+C00591,Male,32,32,125.61,4019.52,One year,5G,Yes,Auto-Debit,Yes
+C00592,Female,50,28,30.71,859.88,Month-to-Month,Fiber,No,Auto-Debit,No
+C00593,Male,52,22,98,2156,One year,5G,Yes,UPI,Yes
+C00594,Female,43,17,83.13,1413.21,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00595,Female,25,59,90.97,5367.23,Month-to-Month,DSL,No,UPI,Yes
+C00596,Female,53,71,140.41,9969.11,Month-to-Month,DSL,No,Auto-Debit,No
+C00597,Male,65,57,133.27,7596.39,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00598,Male,47,26,122.06,3173.56,Month-to-Month,5G,Yes,UPI,No
+C00599,Female,40,25,55.58,1389.5,One year,DSL,Yes,UPI,No
+C00600,Female,59,10,138.54,1385.4,One year,5G,Yes,Auto-Debit,Yes
+C00601,Male,61,45,32.68,1470.6,One year,DSL,Yes,UPI,No
+C00602,Female,31,11,130.93,1440.23,Two year,5G,Yes,Credit Card,No
+C00603,Female,31,53,62.66,3320.98,Month-to-Month,DSL,Yes,Credit Card,Yes
+C00604,Female,19,68,26.99,1835.32,Month-to-Month,Fiber,No,UPI,No
+C00605,Male,54,28,107.02,2996.56,Month-to-Month,Fiber,Yes,UPI,Yes
+C00606,Male,22,65,50.07,3254.55,One year,Fiber,Yes,Credit Card,No
+C00607,Male,55,49,51.66,2531.34,Month-to-Month,Fiber,Yes,Credit Card,No
+C00608,Female,62,47,59.79,2810.13,One year,Fiber,Yes,Credit Card,Yes
+C00609,Female,58,52,28.28,1470.56,Month-to-Month,5G,Yes,UPI,No
+C00610,Female,64,54,43.03,2323.62,Two year,DSL,Yes,Credit Card,No
+C00611,Male,31,60,20.67,1240.2,Two year,5G,No,Credit Card,No
+C00612,Female,56,57,77.9,4440.3,Month-to-Month,5G,No,Credit Card,No
+C00613,Female,42,47,30.95,1454.65,Month-to-Month,DSL,No,Credit Card,Yes
+C00614,Female,37,31,108.74,3370.94,One year,5G,No,Auto-Debit,No
+C00615,Female,19,46,50.63,2328.98,Month-to-Month,DSL,No,Credit Card,No
+C00616,Male,56,26,142.66,3709.16,Month-to-Month,5G,No,Auto-Debit,Yes
+C00617,Male,23,5,133.26,666.3,One year,Fiber,Yes,UPI,No
+C00618,Female,34,52,57.63,2996.76,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00619,Male,42,54,121.82,6578.28,One year,Fiber,Yes,Credit Card,No
+C00620,Male,45,33,124.42,4105.86,One year,DSL,Yes,Credit Card,No
+C00621,Female,19,50,148.25,7412.5,Month-to-Month,DSL,Yes,Credit Card,No
+C00622,Female,52,38,97.72,3713.36,Month-to-Month,Fiber,Yes,Credit Card,No
+C00623,Male,54,27,30.66,827.82,Month-to-Month,Fiber,No,UPI,No
+C00624,Female,22,15,104.09,1561.35,One year,5G,Yes,Credit Card,No
+C00625,Male,18,61,101.25,6176.25,Month-to-Month,DSL,Yes,Credit Card,No
+C00626,Female,57,21,102.99,2162.79,Two year,Fiber,No,Auto-Debit,No
+C00627,Male,29,46,59.93,2756.78,Month-to-Month,DSL,Yes,UPI,No
+C00628,Female,53,69,131.76,9091.44,Month-to-Month,DSL,Yes,Credit Card,No
+C00629,Male,62,6,144.73,868.38,Month-to-Month,5G,Yes,Credit Card,Yes
+C00630,Male,40,38,48.3,1835.4,Month-to-Month,Fiber,No,Credit Card,No
+C00631,Male,64,62,31.46,1950.52,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00632,Female,48,62,45.29,2807.98,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00633,Male,28,46,126.67,5826.82,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00634,Male,27,13,107.96,1403.48,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C00635,Female,20,3,102.69,308.07,Month-to-Month,Fiber,Yes,UPI,No
+C00636,Female,31,6,72.23,433.38,One year,5G,No,Credit Card,No
+C00637,Male,33,8,95.12,760.96,Month-to-Month,Fiber,No,UPI,No
+C00638,Male,27,44,60.02,2640.88,Month-to-Month,5G,No,Auto-Debit,No
+C00639,Female,46,33,82.04,2707.32,One year,Fiber,No,Auto-Debit,No
+C00640,Female,27,50,123.1,6155,Month-to-Month,5G,Yes,UPI,No
+C00641,Female,29,11,147.56,1623.16,One year,5G,No,UPI,No
+C00642,Female,47,28,141.22,3954.16,Month-to-Month,5G,Yes,Auto-Debit,No
+C00643,Female,58,70,141.4,9898,Month-to-Month,Fiber,No,Credit Card,Yes
+C00644,Male,18,41,72.29,2963.89,Two year,Fiber,Yes,Auto-Debit,Yes
+C00645,Female,22,16,80.94,1295.04,Month-to-Month,DSL,Yes,Credit Card,No
+C00646,Male,37,68,111.73,7597.64,One year,Fiber,Yes,UPI,No
+C00647,Male,25,48,139.88,6714.24,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00648,Male,60,56,38.46,2153.76,One year,Fiber,Yes,UPI,No
+C00649,Female,29,64,59.55,3811.2,Two year,DSL,No,UPI,Yes
+C00650,Male,18,59,38.1,2247.9,Month-to-Month,DSL,Yes,Credit Card,No
+C00651,Male,37,62,99.56,6172.72,One year,Fiber,Yes,Auto-Debit,Yes
+C00652,Female,45,11,59.82,658.02,Month-to-Month,Fiber,No,UPI,No
+C00653,Male,60,18,62.39,1123.02,One year,Fiber,Yes,Auto-Debit,Yes
+C00654,Male,54,19,29.22,555.18,Month-to-Month,DSL,No,Credit Card,No
+C00655,Female,64,55,65.47,3600.85,Two year,Fiber,Yes,Auto-Debit,No
+C00656,Male,54,26,132.12,3435.12,Month-to-Month,Fiber,No,Credit Card,Yes
+C00657,Male,29,6,50.3,301.8,Month-to-Month,5G,Yes,Credit Card,No
+C00658,Male,54,4,110.37,441.48,Two year,5G,Yes,Credit Card,Yes
+C00659,Female,66,29,101.85,2953.65,One year,5G,Yes,UPI,No
+C00660,Female,66,59,132.25,7802.75,Month-to-Month,5G,Yes,Auto-Debit,No
+C00661,Female,61,17,37.2,632.4,Month-to-Month,Fiber,No,Credit Card,No
+C00662,Male,45,43,147.09,6324.87,Month-to-Month,DSL,Yes,Credit Card,No
+C00663,Male,64,66,95.74,6318.84,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00664,Female,32,34,149.41,5079.94,Month-to-Month,DSL,Yes,UPI,Yes
+C00665,Male,23,8,138.5,1108,One year,Fiber,No,Auto-Debit,No
+C00666,Male,61,13,48.8,634.4,Month-to-Month,DSL,Yes,Credit Card,No
+C00667,Female,37,8,27.3,218.4,One year,DSL,No,Auto-Debit,No
+C00668,Female,67,65,53.23,3459.95,One year,Fiber,Yes,Credit Card,Yes
+C00669,Male,31,43,88.58,3808.94,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00670,Male,19,39,42.31,1650.09,Month-to-Month,Fiber,Yes,UPI,No
+C00671,Male,26,59,41.77,2464.43,Month-to-Month,Fiber,No,UPI,No
+C00672,Female,54,44,80.14,3526.16,Month-to-Month,Fiber,No,Credit Card,No
+C00673,Female,37,9,24.32,218.88,One year,Fiber,Yes,Credit Card,No
+C00674,Female,43,37,35.85,1326.45,Month-to-Month,Fiber,Yes,Credit Card,No
+C00675,Female,46,36,74.06,2666.16,One year,5G,No,Credit Card,Yes
+C00676,Male,18,28,28.21,789.88,Month-to-Month,Fiber,Yes,Credit Card,No
+C00677,Female,52,42,71.58,3006.36,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00678,Female,23,43,81.62,3509.66,Month-to-Month,Fiber,Yes,Credit Card,No
+C00679,Female,54,42,78.66,3303.72,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00680,Female,22,66,132.99,8777.34,Month-to-Month,DSL,Yes,Credit Card,No
+C00681,Female,50,55,88.91,4890.05,Month-to-Month,DSL,Yes,Credit Card,No
+C00682,Male,66,48,80.84,3880.32,Two year,DSL,Yes,Auto-Debit,No
+C00683,Male,68,22,73.39,1614.58,One year,5G,No,Auto-Debit,No
+C00684,Female,31,27,126.29,3409.83,Month-to-Month,5G,Yes,UPI,No
+C00685,Male,29,67,136.36,9136.12,Month-to-Month,DSL,No,Credit Card,No
+C00686,Female,59,13,130.92,1701.96,Month-to-Month,Fiber,Yes,UPI,No
+C00687,Female,37,45,107.56,4840.2,Month-to-Month,DSL,No,UPI,No
+C00688,Male,67,10,37.86,378.6,Month-to-Month,DSL,Yes,Credit Card,No
+C00689,Male,41,9,55.99,503.91,Month-to-Month,DSL,No,UPI,No
+C00690,Female,60,54,25.99,1403.46,Month-to-Month,5G,Yes,UPI,No
+C00691,Female,51,27,141.01,3807.27,Month-to-Month,DSL,No,Credit Card,No
+C00692,Female,42,34,105.9,3600.6,Month-to-Month,5G,Yes,Auto-Debit,No
+C00693,Male,67,1,117.03,117.03,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00694,Female,46,32,60.5,1936,One year,Fiber,No,Credit Card,Yes
+C00695,Female,56,71,129.93,9225.03,Month-to-Month,Fiber,Yes,UPI,No
+C00696,Female,48,67,53.75,3601.25,Month-to-Month,5G,Yes,Credit Card,No
+C00697,Male,64,20,20.21,404.2,Month-to-Month,5G,No,Auto-Debit,No
+C00698,Female,60,35,68.93,2412.55,Two year,DSL,Yes,UPI,No
+C00699,Female,67,17,94.2,1601.4,Two year,DSL,Yes,Credit Card,No
+C00700,Male,40,18,82.23,1480.14,One year,DSL,No,Credit Card,No
+C00701,Female,61,45,132.07,5943.15,Month-to-Month,5G,Yes,Credit Card,No
+C00702,Female,55,53,33.7,1786.1,Month-to-Month,5G,No,UPI,No
+C00703,Male,37,68,92,6256,One year,DSL,Yes,Auto-Debit,No
+C00704,Female,40,65,86.69,5634.85,Month-to-Month,DSL,No,Credit Card,Yes
+C00705,Male,62,1,56.58,56.58,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00706,Male,69,58,126.89,7359.62,Two year,DSL,No,Credit Card,No
+C00707,Female,33,26,117.87,3064.62,Month-to-Month,Fiber,Yes,Credit Card,No
+C00708,Female,67,20,115.27,2305.4,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00709,Female,59,10,133.91,1339.1,Month-to-Month,5G,Yes,UPI,No
+C00710,Female,25,59,113.96,6723.64,Month-to-Month,DSL,Yes,UPI,No
+C00711,Male,67,41,50.14,2055.74,Month-to-Month,5G,No,Auto-Debit,Yes
+C00712,Female,38,5,111.72,558.6,One year,Fiber,No,Auto-Debit,No
+C00713,Male,18,65,60,3900,One year,Fiber,Yes,UPI,No
+C00714,Female,25,17,51.48,875.16,Month-to-Month,Fiber,No,Auto-Debit,No
+C00715,Female,46,22,29.49,648.78,Two year,Fiber,Yes,Auto-Debit,Yes
+C00716,Female,49,41,116.72,4785.52,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00717,Male,55,68,112.43,7645.24,Month-to-Month,Fiber,Yes,Credit Card,No
+C00718,Female,22,69,50.48,3483.12,One year,Fiber,Yes,Credit Card,No
+C00719,Female,64,11,117.42,1291.62,One year,Fiber,Yes,UPI,No
+C00720,Female,39,56,139.32,7801.92,One year,Fiber,No,Auto-Debit,No
+C00721,Female,64,51,34.04,1736.04,Two year,DSL,Yes,Credit Card,Yes
+C00722,Male,51,21,50.24,1055.04,One year,Fiber,No,UPI,No
+C00723,Female,18,26,117.53,3055.78,Two year,DSL,Yes,UPI,No
+C00724,Male,43,19,55.69,1058.11,Month-to-Month,DSL,No,Credit Card,No
+C00725,Male,60,60,101.21,6072.6,One year,Fiber,Yes,Credit Card,No
+C00726,Male,27,71,30.55,2169.05,Two year,5G,Yes,Credit Card,No
+C00727,Male,47,47,78.79,3703.13,One year,DSL,Yes,Credit Card,No
+C00728,Male,67,71,116.08,8241.68,Month-to-Month,DSL,No,Auto-Debit,No
+C00729,Male,35,26,109.25,2840.5,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00730,Female,34,40,125.96,5038.4,Month-to-Month,DSL,No,Auto-Debit,No
+C00731,Male,43,5,134.07,670.35,Month-to-Month,5G,Yes,Auto-Debit,No
+C00732,Male,25,21,120.51,2530.71,Two year,Fiber,No,Auto-Debit,Yes
+C00733,Male,64,4,107.31,429.24,Month-to-Month,Fiber,Yes,UPI,Yes
+C00734,Female,57,23,24.12,554.76,Month-to-Month,Fiber,Yes,UPI,No
+C00735,Female,66,15,89.55,1343.25,Two year,DSL,Yes,UPI,No
+C00736,Male,29,8,24.9,199.2,Month-to-Month,Fiber,Yes,UPI,No
+C00737,Female,44,41,125.05,5127.05,Month-to-Month,DSL,Yes,Credit Card,No
+C00738,Male,25,19,61.69,1172.11,Month-to-Month,Fiber,No,Auto-Debit,No
+C00739,Male,42,46,93.12,4283.52,One year,5G,No,Credit Card,Yes
+C00740,Female,63,28,56.33,1577.24,Month-to-Month,Fiber,No,UPI,No
+C00741,Male,21,68,121.73,8277.64,Two year,Fiber,Yes,UPI,No
+C00742,Female,50,15,135.25,2028.75,Month-to-Month,DSL,Yes,Credit Card,No
+C00743,Female,18,37,71.82,2657.34,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00744,Male,36,1,132.18,132.18,Month-to-Month,Fiber,Yes,Credit Card,No
+C00745,Male,48,67,54.72,3666.24,One year,Fiber,No,Credit Card,No
+C00746,Female,33,24,89.51,2148.24,Month-to-Month,DSL,Yes,Credit Card,No
+C00747,Male,31,27,131.64,3554.28,Month-to-Month,5G,No,Auto-Debit,Yes
+C00748,Male,65,40,62.36,2494.4,Month-to-Month,5G,Yes,UPI,No
+C00749,Male,22,63,144.03,9073.89,One year,Fiber,No,UPI,No
+C00750,Female,58,61,35.84,2186.24,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00751,Female,43,36,22.38,805.68,One year,DSL,No,Credit Card,No
+C00752,Male,45,24,137.54,3300.96,One year,DSL,Yes,Credit Card,No
+C00753,Female,19,24,28.92,694.08,Month-to-Month,Fiber,No,Credit Card,No
+C00754,Female,67,4,148.95,595.8,Month-to-Month,Fiber,No,Auto-Debit,No
+C00755,Female,23,67,143.68,9626.56,Month-to-Month,Fiber,Yes,UPI,No
+C00756,Female,26,34,37.81,1285.54,Month-to-Month,DSL,Yes,Credit Card,No
+C00757,Female,50,57,89.89,5123.73,Month-to-Month,Fiber,Yes,Credit Card,No
+C00758,Male,58,49,44.04,2157.96,Month-to-Month,5G,Yes,Credit Card,No
+C00759,Male,42,53,75.66,4009.98,Month-to-Month,Fiber,Yes,UPI,No
+C00760,Male,65,23,27.99,643.77,Month-to-Month,Fiber,Yes,Credit Card,No
+C00761,Female,30,69,49.11,3388.59,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00762,Female,26,53,67.23,3563.19,Month-to-Month,Fiber,No,Credit Card,No
+C00763,Male,30,62,77.02,4775.24,One year,Fiber,Yes,UPI,No
+C00764,Female,48,41,147.07,6029.87,Two year,Fiber,Yes,UPI,No
+C00765,Male,58,57,125.02,7126.14,Two year,Fiber,No,UPI,No
+C00766,Male,28,60,115.86,6951.6,Month-to-Month,Fiber,No,UPI,No
+C00767,Male,21,54,89.82,4850.28,Month-to-Month,Fiber,Yes,UPI,No
+C00768,Female,51,70,129.2,9044,Month-to-Month,5G,Yes,Auto-Debit,No
+C00769,Female,55,57,64.11,3654.27,Month-to-Month,DSL,Yes,Credit Card,No
+C00770,Male,63,10,112.16,1121.6,Month-to-Month,DSL,No,UPI,No
+C00771,Male,21,40,149.19,5967.6,One year,Fiber,No,UPI,Yes
+C00772,Male,55,7,60.9,426.3,Month-to-Month,Fiber,Yes,Credit Card,No
+C00773,Male,36,38,107.62,4089.56,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C00774,Female,23,61,129.76,7915.36,Two year,DSL,Yes,Credit Card,No
+C00775,Female,51,3,139.05,417.15,Month-to-Month,Fiber,Yes,Credit Card,No
+C00776,Male,35,51,113.33,5779.83,Month-to-Month,Fiber,No,Credit Card,No
+C00777,Male,30,47,56.87,2672.89,Month-to-Month,DSL,Yes,Credit Card,Yes
+C00778,Female,58,68,62.42,4244.56,Month-to-Month,Fiber,Yes,UPI,Yes
+C00779,Female,40,38,22.7,862.6,One year,Fiber,Yes,UPI,No
+C00780,Male,36,36,118.92,4281.12,Month-to-Month,Fiber,No,Auto-Debit,No
+C00781,Male,62,41,25.56,1047.96,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00782,Male,28,69,132.4,9135.6,One year,DSL,No,Credit Card,Yes
+C00783,Female,18,13,35.43,460.59,One year,Fiber,Yes,UPI,Yes
+C00784,Female,41,58,42.34,2455.72,Two year,Fiber,Yes,Auto-Debit,No
+C00785,Female,24,50,81.95,4097.5,One year,DSL,Yes,Credit Card,Yes
+C00786,Male,42,30,115.92,3477.6,Month-to-Month,Fiber,Yes,UPI,No
+C00787,Male,38,62,38.07,2360.34,Month-to-Month,DSL,No,Auto-Debit,No
+C00788,Female,32,25,77.21,1930.25,Month-to-Month,DSL,Yes,UPI,Yes
+C00789,Female,18,27,82.77,2234.79,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00790,Male,29,51,47.6,2427.6,One year,Fiber,Yes,Credit Card,Yes
+C00791,Female,24,57,35.02,1996.14,One year,DSL,Yes,UPI,No
+C00792,Female,32,47,128.73,6050.31,Month-to-Month,Fiber,No,Auto-Debit,No
+C00793,Male,38,39,85.32,3327.48,Month-to-Month,Fiber,Yes,Credit Card,No
+C00794,Female,36,16,21.87,349.92,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00795,Male,46,22,124.39,2736.58,Two year,Fiber,No,Credit Card,No
+C00796,Male,42,54,147.5,7965,Month-to-Month,Fiber,No,Credit Card,Yes
+C00797,Male,50,21,98.77,2074.17,One year,Fiber,No,UPI,No
+C00798,Male,66,16,85.48,1367.68,One year,DSL,Yes,UPI,No
+C00799,Male,49,59,134.19,7917.21,Two year,Fiber,Yes,Credit Card,No
+C00800,Male,66,31,143.83,4458.73,One year,5G,Yes,Credit Card,No
+C00801,Male,52,42,118.09,4959.78,One year,DSL,No,Auto-Debit,No
+C00802,Female,61,32,77.91,2493.12,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C00803,Male,55,59,96.99,5722.41,Month-to-Month,Fiber,Yes,Credit Card,No
+C00804,Male,43,34,111.12,3778.08,Month-to-Month,Fiber,Yes,Credit Card,No
+C00805,Female,28,9,45.26,407.34,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00806,Female,52,11,78.14,859.54,Two year,5G,Yes,UPI,No
+C00807,Female,25,10,127.88,1278.8,Month-to-Month,DSL,No,Credit Card,No
+C00808,Male,63,17,105.11,1786.87,Two year,Fiber,Yes,Auto-Debit,No
+C00809,Female,31,68,73.46,4995.28,Month-to-Month,DSL,Yes,Credit Card,No
+C00810,Male,27,48,106.24,5099.52,Month-to-Month,Fiber,No,UPI,No
+C00811,Male,19,52,35.37,1839.24,Two year,DSL,Yes,UPI,No
+C00812,Male,63,25,72.19,1804.75,Month-to-Month,DSL,No,UPI,No
+C00813,Male,26,21,123.11,2585.31,Month-to-Month,Fiber,Yes,Credit Card,No
+C00814,Female,20,65,48.67,3163.55,Month-to-Month,Fiber,Yes,UPI,No
+C00815,Female,38,63,44.17,2782.71,One year,DSL,Yes,Auto-Debit,No
+C00816,Male,43,51,143.61,7324.11,Month-to-Month,DSL,No,UPI,No
+C00817,Male,25,36,47.29,1702.44,Month-to-Month,Fiber,Yes,UPI,No
+C00818,Male,65,66,53.92,3558.72,Month-to-Month,Fiber,Yes,Credit Card,No
+C00819,Female,19,15,146.05,2190.75,One year,DSL,No,Auto-Debit,No
+C00820,Male,23,39,115.51,4504.89,One year,Fiber,Yes,Auto-Debit,Yes
+C00821,Male,45,70,110.95,7766.5,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00822,Female,46,1,130.88,130.88,Month-to-Month,Fiber,Yes,UPI,No
+C00823,Female,43,23,35.06,806.38,One year,Fiber,Yes,Auto-Debit,No
+C00824,Male,42,39,111.77,4359.03,Month-to-Month,DSL,No,Credit Card,No
+C00825,Female,29,57,85.48,4872.36,Month-to-Month,5G,No,UPI,Yes
+C00826,Female,22,34,127.79,4344.86,Month-to-Month,DSL,No,UPI,No
+C00827,Male,51,41,86.06,3528.46,Two year,Fiber,No,UPI,Yes
+C00828,Female,65,13,100.63,1308.19,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00829,Male,54,70,82.11,5747.7,Month-to-Month,Fiber,No,UPI,No
+C00830,Female,32,6,82.16,492.96,One year,Fiber,Yes,Credit Card,No
+C00831,Male,61,52,119.84,6231.68,One year,5G,Yes,Credit Card,No
+C00832,Male,53,3,101.71,305.13,Month-to-Month,Fiber,Yes,Credit Card,No
+C00833,Male,32,63,102.32,6446.16,Month-to-Month,5G,Yes,UPI,No
+C00834,Female,60,49,78.54,3848.46,One year,Fiber,No,Credit Card,Yes
+C00835,Male,65,47,89.04,4184.88,Two year,DSL,Yes,Credit Card,No
+C00836,Female,40,55,116.94,6431.7,One year,Fiber,Yes,UPI,No
+C00837,Male,23,64,127.37,8151.68,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00838,Male,63,65,110.55,7185.75,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00839,Female,67,67,140.13,9388.71,Two year,5G,Yes,Auto-Debit,No
+C00840,Male,61,15,126.64,1899.6,One year,DSL,No,Auto-Debit,Yes
+C00841,Male,60,32,93.04,2977.28,Month-to-Month,5G,Yes,Credit Card,No
+C00842,Female,62,68,107.28,7295.04,Month-to-Month,DSL,No,Auto-Debit,Yes
+C00843,Male,38,18,140.42,2527.56,One year,5G,Yes,Credit Card,No
+C00844,Male,40,43,100.49,4321.07,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00845,Male,60,35,127.22,4452.7,Month-to-Month,Fiber,Yes,UPI,No
+C00846,Male,33,58,109.55,6353.9,Month-to-Month,DSL,No,Auto-Debit,No
+C00847,Female,64,33,91.75,3027.75,Month-to-Month,DSL,Yes,UPI,Yes
+C00848,Female,32,14,51.44,720.16,Month-to-Month,DSL,No,Credit Card,No
+C00849,Male,42,34,75.38,2562.92,One year,Fiber,No,UPI,No
+C00850,Female,53,61,145.81,8894.41,Month-to-Month,Fiber,No,Credit Card,Yes
+C00851,Male,28,4,105.51,422.04,Month-to-Month,5G,No,Auto-Debit,No
+C00852,Female,68,59,93.37,5508.83,Month-to-Month,DSL,No,UPI,Yes
+C00853,Male,32,29,141.28,4097.12,Month-to-Month,Fiber,Yes,UPI,No
+C00854,Male,21,6,96.25,577.5,Month-to-Month,DSL,No,Auto-Debit,No
+C00855,Male,38,49,88.39,4331.11,Month-to-Month,5G,Yes,UPI,Yes
+C00856,Male,30,40,118.71,4748.4,One year,Fiber,No,Credit Card,No
+C00857,Male,39,65,112.65,7322.25,Month-to-Month,5G,Yes,Credit Card,No
+C00858,Male,36,69,45.11,3112.59,Month-to-Month,5G,Yes,UPI,No
+C00859,Female,51,27,81.27,2194.29,Month-to-Month,5G,Yes,Auto-Debit,No
+C00860,Male,31,6,81.43,488.58,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C00861,Female,21,13,69.17,899.21,Two year,DSL,Yes,Auto-Debit,No
+C00862,Male,65,64,87.25,5584,Month-to-Month,Fiber,Yes,Credit Card,No
+C00863,Female,69,62,73.7,4569.4,Two year,Fiber,No,Credit Card,Yes
+C00864,Female,63,19,45.91,872.29,Month-to-Month,Fiber,Yes,Credit Card,No
+C00865,Female,44,43,73.61,3165.23,One year,Fiber,Yes,Auto-Debit,No
+C00866,Male,46,20,29.4,588,Month-to-Month,Fiber,No,Credit Card,Yes
+C00867,Male,64,68,94.85,6449.8,One year,Fiber,Yes,Credit Card,No
+C00868,Female,45,44,130.98,5763.12,Month-to-Month,Fiber,Yes,UPI,No
+C00869,Male,52,23,114.29,2628.67,Month-to-Month,Fiber,No,UPI,Yes
+C00870,Female,25,2,66.85,133.7,One year,5G,No,Auto-Debit,No
+C00871,Male,33,22,31.32,689.04,One year,Fiber,Yes,UPI,No
+C00872,Female,59,57,46.28,2637.96,Month-to-Month,DSL,Yes,UPI,Yes
+C00873,Female,53,7,90.91,636.37,Month-to-Month,DSL,Yes,UPI,No
+C00874,Male,47,56,46.92,2627.52,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00875,Female,35,67,90.72,6078.24,One year,5G,Yes,Credit Card,No
+C00876,Male,19,16,50.11,801.76,Month-to-Month,DSL,No,Credit Card,No
+C00877,Female,66,51,130.36,6648.36,Month-to-Month,Fiber,No,Credit Card,No
+C00878,Female,30,12,71.65,859.8,One year,Fiber,No,Credit Card,Yes
+C00879,Male,21,53,51.92,2751.76,Two year,Fiber,Yes,Auto-Debit,No
+C00880,Male,43,5,125.6,628,One year,Fiber,No,Credit Card,Yes
+C00881,Male,42,27,64.57,1743.39,One year,Fiber,Yes,Auto-Debit,No
+C00882,Female,47,12,34.49,413.88,One year,DSL,Yes,Credit Card,Yes
+C00883,Male,28,17,94.15,1600.55,Month-to-Month,5G,Yes,Auto-Debit,No
+C00884,Female,24,6,95.6,573.6,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00885,Female,48,5,112.91,564.55,One year,Fiber,No,UPI,No
+C00886,Male,61,57,51.23,2920.11,Month-to-Month,Fiber,Yes,UPI,No
+C00887,Male,27,28,77.69,2175.32,Two year,Fiber,Yes,Credit Card,Yes
+C00888,Female,56,69,56.71,3912.99,Month-to-Month,Fiber,Yes,UPI,No
+C00889,Female,30,59,30.52,1800.68,Month-to-Month,Fiber,No,Credit Card,No
+C00890,Male,48,33,133.96,4420.68,Two year,5G,Yes,UPI,No
+C00891,Male,24,62,114.75,7114.5,One year,Fiber,Yes,Auto-Debit,No
+C00892,Male,66,50,59.19,2959.5,Month-to-Month,5G,Yes,Credit Card,No
+C00893,Male,59,19,97.92,1860.48,One year,Fiber,Yes,Auto-Debit,Yes
+C00894,Male,59,69,46.16,3185.04,One year,5G,Yes,Credit Card,No
+C00895,Female,53,66,135.73,8958.18,Month-to-Month,DSL,Yes,UPI,No
+C00896,Female,37,47,34.94,1642.18,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00897,Female,21,39,20.5,799.5,One year,Fiber,Yes,UPI,No
+C00898,Female,24,68,85.26,5797.68,Two year,5G,No,UPI,No
+C00899,Male,18,33,95.81,3161.73,Month-to-Month,5G,No,Auto-Debit,No
+C00900,Male,61,13,95.27,1238.51,Two year,DSL,Yes,Auto-Debit,Yes
+C00901,Male,62,54,27.09,1462.86,Two year,DSL,Yes,Credit Card,Yes
+C00902,Female,59,7,60.83,425.81,Month-to-Month,DSL,Yes,UPI,No
+C00903,Female,64,14,84.9,1188.6,One year,Fiber,Yes,UPI,Yes
+C00904,Male,30,19,48.16,915.04,Month-to-Month,DSL,No,Credit Card,No
+C00905,Male,39,54,133.44,7205.76,Month-to-Month,5G,No,Credit Card,Yes
+C00906,Female,38,20,31.32,626.4,One year,Fiber,Yes,Credit Card,Yes
+C00907,Female,39,29,83.36,2417.44,Two year,Fiber,Yes,UPI,No
+C00908,Male,45,24,109.88,2637.12,One year,Fiber,Yes,Auto-Debit,No
+C00909,Male,26,63,54.03,3403.89,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00910,Female,43,57,101.15,5765.55,Month-to-Month,Fiber,Yes,UPI,No
+C00911,Male,26,8,127.82,1022.56,Month-to-Month,Fiber,Yes,Credit Card,No
+C00912,Male,32,62,44.74,2773.88,Month-to-Month,Fiber,No,Credit Card,No
+C00913,Male,27,29,139.24,4037.96,Month-to-Month,DSL,Yes,Credit Card,No
+C00914,Female,41,17,91.96,1563.32,Month-to-Month,Fiber,Yes,UPI,No
+C00915,Female,59,66,58.9,3887.4,Month-to-Month,DSL,No,Credit Card,No
+C00916,Female,25,6,76.01,456.06,One year,Fiber,Yes,UPI,No
+C00917,Female,41,58,60.58,3513.64,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00918,Female,33,69,114.26,7883.94,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C00919,Female,66,28,123.52,3458.56,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00920,Female,43,62,128.28,7953.36,Month-to-Month,Fiber,No,UPI,No
+C00921,Male,44,41,148.15,6074.15,Month-to-Month,5G,No,Credit Card,No
+C00922,Male,54,69,122.87,8478.03,Month-to-Month,Fiber,No,Credit Card,No
+C00923,Male,21,41,98.18,4025.38,Two year,Fiber,No,Auto-Debit,No
+C00924,Male,67,49,64.1,3140.9,Month-to-Month,5G,Yes,UPI,No
+C00925,Male,41,49,90.8,4449.2,One year,5G,No,UPI,No
+C00926,Male,36,71,25.34,1799.14,Two year,DSL,No,Credit Card,No
+C00927,Male,53,3,116.83,350.49,One year,Fiber,Yes,UPI,No
+C00928,Female,56,10,77.97,779.7,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C00929,Female,27,35,22.6,791,Two year,Fiber,Yes,Credit Card,No
+C00930,Male,42,2,28.13,56.26,Month-to-Month,DSL,Yes,Credit Card,No
+C00931,Male,35,24,70.37,1688.88,Month-to-Month,DSL,Yes,UPI,No
+C00932,Female,36,38,95.84,3641.92,Two year,5G,No,Credit Card,No
+C00933,Male,53,22,80.35,1767.7,One year,Fiber,No,Credit Card,No
+C00934,Male,27,26,100.5,2613,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C00935,Female,50,43,82.44,3544.92,Month-to-Month,Fiber,Yes,UPI,No
+C00936,Male,67,55,106.02,5831.1,Month-to-Month,Fiber,No,UPI,No
+C00937,Female,22,39,48.49,1891.11,Month-to-Month,DSL,No,UPI,Yes
+C00938,Male,64,29,34.67,1005.43,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00939,Female,66,20,97.54,1950.8,Two year,DSL,No,Credit Card,No
+C00940,Female,52,41,83.01,3403.41,Two year,DSL,No,Credit Card,No
+C00941,Female,61,54,23.49,1268.46,Two year,5G,No,UPI,No
+C00942,Male,51,20,69.46,1389.2,Month-to-Month,DSL,Yes,Credit Card,Yes
+C00943,Female,50,19,33.8,642.2,One year,5G,Yes,UPI,No
+C00944,Male,38,66,89.08,5879.28,Two year,DSL,No,UPI,No
+C00945,Male,34,30,71.45,2143.5,Two year,Fiber,Yes,Auto-Debit,No
+C00946,Male,39,53,99.71,5284.63,Month-to-Month,Fiber,No,Auto-Debit,No
+C00947,Male,65,34,124.73,4240.82,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00948,Female,54,22,58.96,1297.12,Month-to-Month,DSL,Yes,Credit Card,No
+C00949,Female,32,67,145.07,9719.69,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00950,Male,52,6,89.63,537.78,One year,Fiber,Yes,Credit Card,No
+C00951,Male,45,27,100.38,2710.26,One year,Fiber,No,UPI,No
+C00952,Female,24,10,108.49,1084.9,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C00953,Male,49,48,106.68,5120.64,Month-to-Month,DSL,No,Credit Card,No
+C00954,Female,28,70,86.43,6050.1,Month-to-Month,DSL,No,UPI,No
+C00955,Male,27,59,75.74,4468.66,Month-to-Month,DSL,Yes,Credit Card,No
+C00956,Male,26,59,26.99,1592.41,Month-to-Month,Fiber,No,Credit Card,Yes
+C00957,Female,31,2,22.87,45.74,One year,Fiber,Yes,Auto-Debit,No
+C00958,Male,30,29,66.53,1929.37,Month-to-Month,DSL,No,Credit Card,No
+C00959,Female,42,68,63.38,4309.84,One year,DSL,Yes,Credit Card,No
+C00960,Male,19,65,70.4,4576,Month-to-Month,Fiber,Yes,UPI,No
+C00961,Male,52,26,37.99,987.74,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00962,Male,24,10,115.96,1159.6,Month-to-Month,Fiber,No,Credit Card,No
+C00963,Female,38,53,131.41,6964.73,Two year,DSL,No,Credit Card,Yes
+C00964,Male,35,59,142.03,8379.77,Month-to-Month,5G,Yes,Auto-Debit,No
+C00965,Male,20,22,84.01,1848.22,One year,DSL,Yes,Credit Card,No
+C00966,Male,59,51,111.11,5666.61,Month-to-Month,DSL,Yes,Credit Card,No
+C00967,Male,56,48,131.22,6298.56,Two year,Fiber,No,Auto-Debit,No
+C00968,Female,58,21,74.38,1561.98,One year,DSL,Yes,UPI,No
+C00969,Female,66,22,60.22,1324.84,Month-to-Month,DSL,No,Auto-Debit,No
+C00970,Male,28,30,141.77,4253.1,One year,DSL,Yes,Credit Card,Yes
+C00971,Female,56,25,87.04,2176,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00972,Male,41,28,84.64,2369.92,Two year,Fiber,No,Auto-Debit,No
+C00973,Male,63,65,43.19,2807.35,Month-to-Month,5G,No,Credit Card,No
+C00974,Male,36,45,34.06,1532.7,Month-to-Month,DSL,No,Credit Card,Yes
+C00975,Female,21,68,129.47,8803.96,One year,Fiber,Yes,Auto-Debit,No
+C00976,Female,43,7,99.84,698.88,One year,DSL,No,UPI,No
+C00977,Female,55,49,62.36,3055.64,Month-to-Month,Fiber,Yes,UPI,Yes
+C00978,Female,59,9,44.93,404.37,One year,Fiber,No,UPI,No
+C00979,Female,49,36,92.21,3319.56,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C00980,Female,56,1,95.91,95.91,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00981,Female,62,10,46.91,469.1,One year,5G,Yes,Credit Card,No
+C00982,Female,63,36,130.68,4704.48,Month-to-Month,DSL,Yes,Credit Card,No
+C00983,Female,53,46,30.95,1423.7,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00984,Male,57,32,66.29,2121.28,One year,Fiber,No,Auto-Debit,No
+C00985,Female,54,32,108.45,3470.4,Month-to-Month,Fiber,No,UPI,No
+C00986,Female,50,6,55.64,333.84,One year,Fiber,No,Auto-Debit,No
+C00987,Female,53,48,127.6,6124.8,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00988,Female,20,38,116.18,4414.84,Month-to-Month,5G,Yes,Credit Card,No
+C00989,Female,26,17,122.57,2083.69,Month-to-Month,Fiber,No,Auto-Debit,No
+C00990,Female,25,27,35.48,957.96,One year,DSL,Yes,UPI,No
+C00991,Female,50,54,38.27,2066.58,One year,5G,Yes,Credit Card,Yes
+C00992,Female,23,50,57.24,2862,Month-to-Month,Fiber,No,Credit Card,Yes
+C00993,Female,58,35,87.35,3057.25,Month-to-Month,DSL,Yes,Auto-Debit,No
+C00994,Female,56,25,117.24,2931,Two year,DSL,Yes,Auto-Debit,No
+C00995,Female,21,28,128.75,3605,Month-to-Month,DSL,No,Credit Card,No
+C00996,Male,30,15,111.56,1673.4,Two year,Fiber,Yes,Credit Card,No
+C00997,Male,66,4,140.72,562.88,Month-to-Month,DSL,No,UPI,No
+C00998,Female,19,27,116.04,3133.08,One year,DSL,Yes,Auto-Debit,No
+C00999,Female,22,26,59.81,1555.06,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01000,Male,61,19,54.46,1034.74,Two year,DSL,Yes,UPI,No
+C01001,Female,44,17,110.51,1878.67,One year,Fiber,No,UPI,Yes
+C01002,Male,49,43,45.07,1938.01,Month-to-Month,5G,Yes,Credit Card,No
+C01003,Male,38,41,32.05,1314.05,Month-to-Month,DSL,No,UPI,No
+C01004,Male,25,42,89.19,3745.98,One year,5G,Yes,Credit Card,No
+C01005,Male,55,50,126.81,6340.5,One year,Fiber,Yes,Auto-Debit,No
+C01006,Male,25,40,33.18,1327.2,Month-to-Month,Fiber,No,Credit Card,Yes
+C01007,Female,67,39,122.95,4795.05,Month-to-Month,Fiber,Yes,UPI,No
+C01008,Male,20,23,125.5,2886.5,One year,Fiber,Yes,Credit Card,No
+C01009,Female,61,52,82.7,4300.4,Month-to-Month,Fiber,Yes,UPI,No
+C01010,Female,20,47,27.45,1290.15,One year,DSL,Yes,Credit Card,No
+C01011,Male,39,63,42.7,2690.1,Month-to-Month,Fiber,Yes,Credit Card,No
+C01012,Male,23,69,111.97,7725.93,Two year,DSL,Yes,Credit Card,No
+C01013,Female,19,43,112.53,4838.79,Two year,Fiber,Yes,Auto-Debit,Yes
+C01014,Male,40,48,136.79,6565.92,Two year,DSL,Yes,Credit Card,Yes
+C01015,Male,61,34,95.75,3255.5,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01016,Female,19,40,36.13,1445.2,Two year,DSL,Yes,UPI,No
+C01017,Female,55,61,35.78,2182.58,Month-to-Month,5G,No,UPI,No
+C01018,Male,34,50,113.75,5687.5,Month-to-Month,Fiber,No,UPI,No
+C01019,Female,52,67,43.89,2940.63,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01020,Male,51,62,62.69,3886.78,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01021,Male,40,58,83.34,4833.72,Two year,Fiber,No,Credit Card,Yes
+C01022,Male,47,33,23.22,766.26,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01023,Female,69,16,52.35,837.6,One year,Fiber,Yes,Credit Card,Yes
+C01024,Female,25,48,73.03,3505.44,One year,DSL,Yes,Auto-Debit,No
+C01025,Female,39,10,56.35,563.5,One year,Fiber,No,Credit Card,No
+C01026,Female,61,38,37.73,1433.74,Month-to-Month,5G,Yes,UPI,No
+C01027,Female,53,19,114.64,2178.16,Month-to-Month,5G,No,Credit Card,No
+C01028,Male,22,36,125.71,4525.56,One year,Fiber,No,Auto-Debit,No
+C01029,Male,30,59,53.47,3154.73,Month-to-Month,Fiber,Yes,UPI,No
+C01030,Male,46,63,120.67,7602.21,Month-to-Month,5G,No,Credit Card,Yes
+C01031,Male,48,46,70.12,3225.52,Month-to-Month,5G,Yes,Credit Card,No
+C01032,Female,64,3,85.87,257.61,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01033,Male,33,65,131.28,8533.2,Two year,Fiber,Yes,Auto-Debit,Yes
+C01034,Female,59,8,117.49,939.92,Month-to-Month,5G,Yes,Credit Card,No
+C01035,Male,47,51,124.67,6358.17,Month-to-Month,DSL,Yes,Credit Card,No
+C01036,Female,33,6,37.79,226.74,Month-to-Month,Fiber,Yes,UPI,Yes
+C01037,Female,29,39,29.06,1133.34,Month-to-Month,DSL,Yes,UPI,Yes
+C01038,Male,34,60,136.14,8168.4,Month-to-Month,5G,Yes,Credit Card,Yes
+C01039,Male,33,28,70.42,1971.76,Month-to-Month,5G,Yes,Credit Card,No
+C01040,Male,29,54,57.42,3100.68,Month-to-Month,DSL,No,Auto-Debit,No
+C01041,Male,25,37,114.21,4225.77,One year,DSL,Yes,Auto-Debit,Yes
+C01042,Female,37,9,128.73,1158.57,Month-to-Month,Fiber,No,Credit Card,No
+C01043,Male,20,56,132.12,7398.72,Month-to-Month,5G,Yes,Auto-Debit,No
+C01044,Male,33,59,61.08,3603.72,Month-to-Month,Fiber,Yes,Credit Card,No
+C01045,Female,47,2,130.79,261.58,Month-to-Month,5G,Yes,Credit Card,No
+C01046,Male,62,61,25.32,1544.52,Two year,Fiber,Yes,UPI,No
+C01047,Male,40,58,26.46,1534.68,Month-to-Month,5G,Yes,Credit Card,No
+C01048,Male,45,60,101.06,6063.6,Month-to-Month,Fiber,Yes,UPI,No
+C01049,Male,68,40,28.2,1128,Month-to-Month,DSL,No,Auto-Debit,Yes
+C01050,Male,57,36,62.2,2239.2,Two year,Fiber,No,Auto-Debit,No
+C01051,Female,22,37,107.46,3976.02,Month-to-Month,DSL,Yes,Credit Card,No
+C01052,Male,37,18,63.84,1149.12,One year,5G,No,Credit Card,Yes
+C01053,Male,57,63,43.35,2731.05,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01054,Male,61,22,56.58,1244.76,Two year,DSL,Yes,Credit Card,Yes
+C01055,Male,18,11,79.48,874.28,Two year,Fiber,No,UPI,No
+C01056,Male,47,58,81.8,4744.4,Month-to-Month,5G,Yes,Credit Card,Yes
+C01057,Female,38,57,121.79,6942.03,Month-to-Month,DSL,Yes,Credit Card,No
+C01058,Male,37,4,117.52,470.08,Month-to-Month,DSL,Yes,Credit Card,No
+C01059,Female,23,7,79.39,555.73,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01060,Female,39,61,129.94,7926.34,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01061,Male,35,54,34.85,1881.9,Month-to-Month,Fiber,Yes,Credit Card,No
+C01062,Male,25,68,53.2,3617.6,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01063,Male,56,1,127.64,127.64,Month-to-Month,DSL,Yes,Credit Card,No
+C01064,Male,49,55,69.14,3802.7,Month-to-Month,5G,No,Credit Card,Yes
+C01065,Female,50,3,147.55,442.65,Month-to-Month,5G,Yes,Auto-Debit,No
+C01066,Male,33,38,80.61,3063.18,Month-to-Month,Fiber,No,UPI,No
+C01067,Male,29,1,122.95,122.95,Two year,Fiber,No,Credit Card,No
+C01068,Male,55,38,72.3,2747.4,Month-to-Month,Fiber,No,Credit Card,No
+C01069,Male,69,29,75.24,2181.96,One year,Fiber,No,Auto-Debit,Yes
+C01070,Male,51,5,69.77,348.85,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01071,Male,31,21,113.48,2383.08,Month-to-Month,5G,Yes,Auto-Debit,No
+C01072,Female,53,71,91.18,6473.78,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01073,Female,50,67,142.69,9560.23,Month-to-Month,Fiber,No,Auto-Debit,No
+C01074,Male,40,47,52.62,2473.14,One year,5G,Yes,Credit Card,No
+C01075,Male,67,35,33.07,1157.45,One year,5G,Yes,Auto-Debit,No
+C01076,Male,62,68,71.12,4836.16,Month-to-Month,DSL,Yes,Credit Card,No
+C01077,Female,19,69,100.17,6911.73,Two year,DSL,No,Credit Card,Yes
+C01078,Male,58,1,131.9,131.9,Month-to-Month,DSL,Yes,UPI,No
+C01079,Female,38,68,65.01,4420.68,Two year,Fiber,Yes,Auto-Debit,No
+C01080,Male,19,12,104.99,1259.88,Two year,Fiber,Yes,Auto-Debit,Yes
+C01081,Male,44,60,65.53,3931.8,Month-to-Month,Fiber,No,Credit Card,No
+C01082,Male,26,27,100.24,2706.48,Month-to-Month,Fiber,Yes,UPI,Yes
+C01083,Male,18,56,135.03,7561.68,Month-to-Month,5G,Yes,Auto-Debit,No
+C01084,Female,28,23,50.08,1151.84,One year,DSL,Yes,Credit Card,Yes
+C01085,Female,20,25,72.55,1813.75,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01086,Male,69,21,149.12,3131.52,Two year,Fiber,No,Auto-Debit,No
+C01087,Male,40,61,132.91,8107.51,One year,Fiber,Yes,Credit Card,No
+C01088,Female,43,63,93.4,5884.2,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01089,Female,21,52,87.16,4532.32,Month-to-Month,5G,No,Credit Card,No
+C01090,Female,35,25,57,1425,One year,Fiber,No,Credit Card,No
+C01091,Female,23,55,87.24,4798.2,Month-to-Month,Fiber,Yes,UPI,No
+C01092,Male,52,46,130.26,5991.96,One year,DSL,Yes,Auto-Debit,No
+C01093,Female,39,32,109.07,3490.24,Month-to-Month,DSL,No,UPI,No
+C01094,Male,60,55,57.71,3174.05,Month-to-Month,Fiber,Yes,Credit Card,No
+C01095,Female,32,5,46.19,230.95,Month-to-Month,DSL,No,UPI,Yes
+C01096,Female,39,36,54.48,1961.28,One year,DSL,No,UPI,No
+C01097,Female,54,49,42.07,2061.43,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01098,Female,69,58,32.43,1880.94,One year,Fiber,No,Credit Card,No
+C01099,Female,59,39,74.49,2905.11,Month-to-Month,Fiber,Yes,UPI,Yes
+C01100,Male,29,61,34.73,2118.53,One year,5G,Yes,Auto-Debit,No
+C01101,Male,64,9,42.35,381.15,Month-to-Month,5G,Yes,UPI,No
+C01102,Female,66,6,91.15,546.9,Month-to-Month,5G,No,Credit Card,Yes
+C01103,Female,59,35,41.4,1449,One year,DSL,Yes,Credit Card,No
+C01104,Male,55,39,28.3,1103.7,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01105,Female,35,22,61.26,1347.72,Month-to-Month,DSL,No,Credit Card,Yes
+C01106,Female,62,41,48.64,1994.24,Month-to-Month,5G,Yes,Auto-Debit,No
+C01107,Male,52,5,86.99,434.95,One year,Fiber,Yes,Auto-Debit,No
+C01108,Female,47,42,33.31,1399.02,Two year,DSL,No,Credit Card,No
+C01109,Female,41,67,117.73,7887.91,Month-to-Month,DSL,No,UPI,No
+C01110,Male,59,30,137.81,4134.3,Month-to-Month,DSL,No,Credit Card,No
+C01111,Male,47,57,116.65,6649.05,One year,Fiber,No,Credit Card,No
+C01112,Male,31,29,89.27,2588.83,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01113,Female,23,37,131.89,4879.93,Two year,DSL,Yes,UPI,No
+C01114,Male,20,13,110.34,1434.42,Month-to-Month,Fiber,Yes,Credit Card,No
+C01115,Male,33,32,21.37,683.84,Two year,DSL,No,Auto-Debit,No
+C01116,Male,24,46,71.23,3276.58,One year,Fiber,Yes,Credit Card,No
+C01117,Male,69,23,130.62,3004.26,One year,5G,No,UPI,No
+C01118,Male,31,45,64.96,2923.2,One year,DSL,Yes,UPI,Yes
+C01119,Male,26,17,24.58,417.86,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01120,Female,32,66,117,7722,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01121,Female,38,6,124.26,745.56,Month-to-Month,Fiber,Yes,UPI,Yes
+C01122,Male,52,18,40.88,735.84,One year,DSL,Yes,UPI,No
+C01123,Male,19,22,89.85,1976.7,One year,Fiber,Yes,UPI,Yes
+C01124,Male,44,33,44.95,1483.35,Two year,DSL,Yes,Credit Card,Yes
+C01125,Female,19,30,113.5,3405,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01126,Female,52,32,55.3,1769.6,Month-to-Month,5G,No,UPI,No
+C01127,Female,35,42,61.11,2566.62,Month-to-Month,DSL,No,Auto-Debit,Yes
+C01128,Female,31,10,129.85,1298.5,One year,Fiber,Yes,Auto-Debit,No
+C01129,Female,37,36,81.92,2949.12,Month-to-Month,DSL,No,Credit Card,No
+C01130,Female,35,34,107.07,3640.38,Month-to-Month,5G,Yes,UPI,No
+C01131,Female,27,28,72.31,2024.68,One year,DSL,Yes,Credit Card,No
+C01132,Female,42,11,58.74,646.14,Month-to-Month,Fiber,Yes,Credit Card,No
+C01133,Female,19,39,101.31,3951.09,Month-to-Month,DSL,Yes,UPI,No
+C01134,Male,42,47,40.13,1886.11,Month-to-Month,Fiber,No,UPI,No
+C01135,Male,50,19,68.49,1301.31,One year,Fiber,Yes,Credit Card,No
+C01136,Male,53,15,47.17,707.55,Month-to-Month,Fiber,No,UPI,No
+C01137,Male,48,28,110.45,3092.6,One year,DSL,Yes,Auto-Debit,No
+C01138,Female,31,24,142.75,3426,Month-to-Month,Fiber,Yes,Credit Card,No
+C01139,Female,18,9,149.42,1344.78,Two year,5G,No,Auto-Debit,No
+C01140,Male,63,47,78.54,3691.38,Month-to-Month,Fiber,Yes,Credit Card,No
+C01141,Female,33,33,52.83,1743.39,Month-to-Month,Fiber,Yes,UPI,Yes
+C01142,Male,63,62,77.57,4809.34,One year,Fiber,Yes,Auto-Debit,No
+C01143,Female,69,19,130.15,2472.85,One year,Fiber,Yes,UPI,No
+C01144,Male,20,67,46.78,3134.26,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01145,Female,52,40,143.77,5750.8,One year,Fiber,Yes,Credit Card,No
+C01146,Female,58,47,64.44,3028.68,Month-to-Month,Fiber,Yes,UPI,No
+C01147,Male,23,65,148.15,9629.75,Two year,Fiber,Yes,UPI,No
+C01148,Female,42,29,129.02,3741.58,One year,Fiber,Yes,UPI,No
+C01149,Male,30,50,125.11,6255.5,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01150,Male,51,13,61.33,797.29,One year,DSL,Yes,Auto-Debit,No
+C01151,Male,25,1,21.14,21.14,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01152,Male,38,34,69.68,2369.12,Month-to-Month,DSL,Yes,Credit Card,No
+C01153,Female,51,48,59.24,2843.52,Two year,DSL,Yes,Credit Card,Yes
+C01154,Female,21,48,24.86,1193.28,One year,DSL,Yes,UPI,No
+C01155,Female,42,49,85.7,4199.3,Month-to-Month,5G,Yes,UPI,No
+C01156,Male,32,64,72.39,4632.96,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01157,Female,21,61,102.49,6251.89,Month-to-Month,Fiber,Yes,Credit Card,No
+C01158,Male,62,29,100.75,2921.75,Two year,Fiber,Yes,Credit Card,Yes
+C01159,Female,29,39,35.7,1392.3,Month-to-Month,Fiber,Yes,UPI,No
+C01160,Female,49,26,147.01,3822.26,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01161,Female,49,17,44.3,753.1,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01162,Male,45,71,77.89,5530.19,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01163,Female,30,13,83.46,1084.98,Month-to-Month,5G,Yes,Credit Card,Yes
+C01164,Female,48,69,125.7,8673.3,Month-to-Month,Fiber,Yes,UPI,Yes
+C01165,Male,31,26,32.9,855.4,Month-to-Month,Fiber,No,Credit Card,No
+C01166,Female,37,49,75.72,3710.28,Month-to-Month,5G,No,Auto-Debit,No
+C01167,Male,35,67,101.71,6814.57,Two year,5G,No,UPI,Yes
+C01168,Female,46,7,47.97,335.79,Month-to-Month,Fiber,No,Credit Card,Yes
+C01169,Male,23,58,101.57,5891.06,One year,DSL,Yes,Credit Card,No
+C01170,Male,49,49,140.08,6863.92,One year,5G,Yes,Credit Card,No
+C01171,Female,46,53,149.68,7933.04,One year,Fiber,Yes,Auto-Debit,No
+C01172,Male,60,65,24.22,1574.3,Two year,Fiber,Yes,Credit Card,No
+C01173,Male,19,62,50.63,3139.06,Month-to-Month,5G,Yes,Credit Card,No
+C01174,Male,40,17,60.34,1025.78,Month-to-Month,DSL,No,Auto-Debit,No
+C01175,Male,36,43,71.89,3091.27,Month-to-Month,Fiber,No,Credit Card,No
+C01176,Male,48,25,51.49,1287.25,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01177,Male,68,3,46.45,139.35,One year,Fiber,Yes,Credit Card,Yes
+C01178,Female,22,29,144.09,4178.61,One year,5G,Yes,UPI,Yes
+C01179,Male,36,32,139.41,4461.12,Two year,Fiber,No,Credit Card,Yes
+C01180,Male,51,26,26.11,678.86,Month-to-Month,5G,No,Credit Card,No
+C01181,Female,27,16,64.05,1024.8,Two year,DSL,No,UPI,Yes
+C01182,Female,42,25,72.67,1816.75,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01183,Female,19,54,51.07,2757.78,Month-to-Month,Fiber,Yes,UPI,No
+C01184,Female,28,28,101.75,2849,Month-to-Month,DSL,Yes,Credit Card,No
+C01185,Female,67,56,103.25,5782,One year,5G,Yes,UPI,Yes
+C01186,Female,48,65,130.57,8487.05,Month-to-Month,Fiber,No,Auto-Debit,No
+C01187,Female,32,41,116.31,4768.71,Two year,Fiber,No,Credit Card,Yes
+C01188,Male,26,51,90.53,4617.03,Two year,DSL,Yes,Credit Card,No
+C01189,Male,40,71,104.97,7452.87,Two year,DSL,Yes,Auto-Debit,No
+C01190,Female,36,29,55.62,1612.98,Month-to-Month,Fiber,Yes,UPI,No
+C01191,Male,26,19,97.1,1844.9,Two year,DSL,No,Credit Card,No
+C01192,Male,52,66,83.6,5517.6,One year,DSL,Yes,UPI,No
+C01193,Male,38,41,37.33,1530.53,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01194,Female,26,45,51.53,2318.85,Month-to-Month,Fiber,Yes,Credit Card,No
+C01195,Female,45,15,57.92,868.8,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01196,Male,63,3,140.16,420.48,Month-to-Month,DSL,No,Auto-Debit,No
+C01197,Female,68,11,49.95,549.45,Month-to-Month,DSL,Yes,UPI,No
+C01198,Male,24,53,57.6,3052.8,Two year,DSL,Yes,Credit Card,No
+C01199,Male,33,46,68.02,3128.92,Month-to-Month,Fiber,Yes,Credit Card,No
+C01200,Male,33,30,106.29,3188.7,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01201,Male,50,57,35.37,2016.09,Two year,5G,No,Credit Card,No
+C01202,Female,21,18,144.01,2592.18,Month-to-Month,Fiber,Yes,Credit Card,No
+C01203,Female,21,51,132.52,6758.52,Two year,DSL,Yes,Credit Card,Yes
+C01204,Female,56,48,95.04,4561.92,Month-to-Month,DSL,No,UPI,No
+C01205,Male,57,66,107.62,7102.92,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01206,Female,34,8,22.17,177.36,Month-to-Month,Fiber,Yes,Credit Card,No
+C01207,Male,54,22,64.06,1409.32,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01208,Female,56,6,123.44,740.64,Month-to-Month,Fiber,Yes,UPI,No
+C01209,Male,69,57,30.07,1713.99,One year,DSL,No,Credit Card,No
+C01210,Male,46,36,56.7,2041.2,Month-to-Month,Fiber,No,Auto-Debit,No
+C01211,Male,69,57,96.09,5477.13,Two year,Fiber,Yes,Credit Card,No
+C01212,Female,53,49,53.33,2613.17,Month-to-Month,DSL,Yes,UPI,No
+C01213,Female,55,45,141.42,6363.9,Month-to-Month,Fiber,Yes,UPI,No
+C01214,Female,56,66,37.04,2444.64,One year,DSL,Yes,Credit Card,No
+C01215,Female,67,45,123.66,5564.7,Month-to-Month,Fiber,Yes,Credit Card,No
+C01216,Male,54,20,86.03,1720.6,One year,Fiber,No,Auto-Debit,No
+C01217,Female,69,64,117.54,7522.56,Two year,Fiber,Yes,Auto-Debit,No
+C01218,Female,52,67,60.39,4046.13,One year,Fiber,Yes,UPI,No
+C01219,Male,24,3,86.88,260.64,Month-to-Month,5G,Yes,Credit Card,No
+C01220,Male,44,54,131.39,7095.06,Month-to-Month,DSL,Yes,Credit Card,No
+C01221,Male,45,64,80.69,5164.16,One year,Fiber,No,Credit Card,No
+C01222,Female,39,40,66.76,2670.4,One year,Fiber,Yes,Credit Card,No
+C01223,Male,31,59,89.7,5292.3,Month-to-Month,Fiber,Yes,UPI,Yes
+C01224,Male,24,55,113.26,6229.3,Month-to-Month,Fiber,No,UPI,No
+C01225,Male,54,62,77.66,4814.92,Month-to-Month,Fiber,Yes,Credit Card,No
+C01226,Female,39,4,142.05,568.2,Month-to-Month,DSL,Yes,Credit Card,No
+C01227,Male,22,60,58.34,3500.4,Month-to-Month,5G,Yes,UPI,Yes
+C01228,Female,19,30,81.81,2454.3,Month-to-Month,Fiber,No,Credit Card,No
+C01229,Female,44,2,118.4,236.8,One year,DSL,No,Auto-Debit,No
+C01230,Male,38,62,109.59,6794.58,Two year,5G,Yes,UPI,No
+C01231,Male,55,49,132.27,6481.23,One year,Fiber,Yes,Auto-Debit,No
+C01232,Female,32,9,149.59,1346.31,Month-to-Month,5G,No,Auto-Debit,No
+C01233,Male,38,31,75.49,2340.19,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01234,Male,27,61,34.45,2101.45,Two year,Fiber,Yes,Credit Card,No
+C01235,Female,40,48,23.95,1149.6,Two year,5G,No,Auto-Debit,No
+C01236,Female,56,25,114.49,2862.25,Two year,Fiber,Yes,Credit Card,No
+C01237,Male,22,36,133.62,4810.32,One year,Fiber,Yes,Credit Card,Yes
+C01238,Female,18,8,48.69,389.52,Month-to-Month,DSL,No,UPI,No
+C01239,Male,30,58,40.6,2354.8,One year,Fiber,Yes,Credit Card,No
+C01240,Male,38,45,28.09,1264.05,Month-to-Month,Fiber,Yes,Credit Card,No
+C01241,Male,43,62,126.95,7870.9,Month-to-Month,Fiber,Yes,Credit Card,No
+C01242,Female,67,39,60.48,2358.72,One year,DSL,Yes,Credit Card,No
+C01243,Male,62,58,72.22,4188.76,Month-to-Month,DSL,Yes,UPI,Yes
+C01244,Male,38,64,85.36,5463.04,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01245,Male,35,44,129.13,5681.72,Month-to-Month,5G,Yes,UPI,No
+C01246,Female,54,29,104.61,3033.69,Month-to-Month,Fiber,No,Auto-Debit,No
+C01247,Female,62,59,99.96,5897.64,Two year,Fiber,Yes,UPI,No
+C01248,Female,49,71,42.84,3041.64,Month-to-Month,DSL,No,UPI,No
+C01249,Female,53,9,86.71,780.39,Month-to-Month,DSL,No,Auto-Debit,No
+C01250,Female,34,6,113,678,Month-to-Month,Fiber,No,Credit Card,No
+C01251,Male,52,29,146.52,4249.08,Month-to-Month,Fiber,Yes,UPI,Yes
+C01252,Female,66,58,46.18,2678.44,Month-to-Month,5G,No,Auto-Debit,No
+C01253,Female,28,17,21.24,361.08,One year,5G,Yes,Auto-Debit,No
+C01254,Female,38,16,29.79,476.64,Month-to-Month,DSL,Yes,UPI,Yes
+C01255,Male,69,3,68.86,206.58,One year,Fiber,Yes,Credit Card,No
+C01256,Female,43,21,126.67,2660.07,Two year,5G,No,Auto-Debit,Yes
+C01257,Female,21,64,20.93,1339.52,One year,5G,Yes,Credit Card,No
+C01258,Male,51,36,79.37,2857.32,Month-to-Month,DSL,Yes,Credit Card,No
+C01259,Female,69,62,62.8,3893.6,Month-to-Month,5G,No,Credit Card,No
+C01260,Male,65,42,26.82,1126.44,Two year,5G,No,UPI,No
+C01261,Male,35,42,78.53,3298.26,Month-to-Month,5G,Yes,Auto-Debit,No
+C01262,Male,57,61,53.12,3240.32,One year,5G,Yes,Auto-Debit,Yes
+C01263,Male,52,13,65.75,854.75,Two year,DSL,Yes,Auto-Debit,No
+C01264,Male,58,11,111.73,1229.03,Two year,DSL,Yes,Credit Card,No
+C01265,Female,46,54,87.8,4741.2,Two year,Fiber,Yes,UPI,No
+C01266,Male,69,16,36.2,579.2,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01267,Male,46,8,144.98,1159.84,Month-to-Month,DSL,Yes,UPI,No
+C01268,Female,55,59,102.67,6057.53,Two year,5G,No,Auto-Debit,No
+C01269,Male,59,57,119.56,6814.92,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01270,Female,38,40,30.3,1212,Month-to-Month,DSL,Yes,UPI,No
+C01271,Female,59,59,26.12,1541.08,One year,Fiber,No,Credit Card,No
+C01272,Female,30,2,22.53,45.06,Month-to-Month,DSL,Yes,UPI,Yes
+C01273,Male,66,10,44.54,445.4,Two year,DSL,Yes,Auto-Debit,No
+C01274,Male,58,44,73.87,3250.28,One year,Fiber,No,Credit Card,Yes
+C01275,Male,34,11,141.66,1558.26,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01276,Female,26,2,79.42,158.84,Two year,Fiber,Yes,Credit Card,No
+C01277,Male,58,50,57.73,2886.5,One year,Fiber,Yes,UPI,No
+C01278,Male,18,12,93.05,1116.6,One year,DSL,Yes,UPI,No
+C01279,Male,19,23,34.55,794.65,Month-to-Month,Fiber,Yes,UPI,No
+C01280,Female,65,18,99.24,1786.32,Month-to-Month,Fiber,No,Auto-Debit,No
+C01281,Female,46,62,93.9,5821.8,One year,Fiber,Yes,Credit Card,No
+C01282,Male,50,62,122.96,7623.52,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01283,Male,27,38,148.27,5634.26,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01284,Male,67,67,52.61,3524.87,One year,Fiber,No,Credit Card,No
+C01285,Male,57,38,86.26,3277.88,Month-to-Month,5G,No,UPI,No
+C01286,Female,38,67,138.15,9256.05,Month-to-Month,Fiber,Yes,Credit Card,No
+C01287,Female,45,61,122.07,7446.27,Month-to-Month,Fiber,No,Credit Card,No
+C01288,Female,28,1,83.36,83.36,Month-to-Month,Fiber,No,UPI,No
+C01289,Female,51,45,142.9,6430.5,One year,DSL,Yes,Auto-Debit,Yes
+C01290,Male,25,28,27.44,768.32,Month-to-Month,DSL,Yes,Credit Card,No
+C01291,Male,39,21,141.03,2961.63,Month-to-Month,5G,Yes,Credit Card,No
+C01292,Male,25,13,26.57,345.41,One year,DSL,No,Credit Card,No
+C01293,Female,66,27,91.15,2461.05,Two year,Fiber,No,UPI,No
+C01294,Male,32,7,135.76,950.32,One year,DSL,No,Credit Card,Yes
+C01295,Female,34,22,54.15,1191.3,Month-to-Month,5G,Yes,UPI,No
+C01296,Female,40,53,81.39,4313.67,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01297,Male,41,4,62.16,248.64,Two year,Fiber,No,UPI,No
+C01298,Male,62,23,143.78,3306.94,Month-to-Month,DSL,No,Credit Card,No
+C01299,Male,36,70,127.07,8894.9,One year,Fiber,Yes,UPI,No
+C01300,Female,22,33,112.17,3701.61,Month-to-Month,5G,No,Auto-Debit,Yes
+C01301,Male,49,28,96.39,2698.92,Month-to-Month,Fiber,Yes,Credit Card,No
+C01302,Female,61,8,126.68,1013.44,One year,Fiber,No,Credit Card,No
+C01303,Male,18,1,70.99,70.99,One year,5G,Yes,UPI,Yes
+C01304,Female,40,37,78.18,2892.66,One year,5G,Yes,Credit Card,No
+C01305,Female,54,63,114.9,7238.7,Month-to-Month,Fiber,No,UPI,No
+C01306,Male,25,22,66.51,1463.22,Month-to-Month,5G,Yes,Auto-Debit,No
+C01307,Female,30,70,28.31,1981.7,Month-to-Month,Fiber,No,UPI,No
+C01308,Female,25,21,29.66,622.86,Month-to-Month,Fiber,Yes,UPI,No
+C01309,Male,40,35,35,1225,Month-to-Month,5G,No,UPI,Yes
+C01310,Female,60,5,133.06,665.3,Month-to-Month,DSL,No,Credit Card,No
+C01311,Male,18,60,81.39,4883.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01312,Female,62,46,112.67,5182.82,Two year,Fiber,Yes,Auto-Debit,No
+C01313,Male,68,50,71.08,3554,One year,DSL,Yes,Auto-Debit,No
+C01314,Male,41,48,53.63,2574.24,Two year,Fiber,Yes,Auto-Debit,Yes
+C01315,Female,52,6,65.13,390.78,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01316,Female,41,56,123.24,6901.44,Two year,DSL,No,Credit Card,No
+C01317,Female,34,59,101.28,5975.52,Month-to-Month,Fiber,No,Credit Card,No
+C01318,Female,22,29,141.89,4114.81,Month-to-Month,DSL,No,Credit Card,No
+C01319,Female,37,71,108.36,7693.56,One year,5G,Yes,Credit Card,Yes
+C01320,Male,38,18,94.12,1694.16,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01321,Female,57,2,99.33,198.66,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01322,Male,48,8,142.51,1140.08,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01323,Male,63,54,122.47,6613.38,Month-to-Month,DSL,Yes,UPI,Yes
+C01324,Female,53,38,23.13,878.94,One year,5G,Yes,Credit Card,Yes
+C01325,Male,28,48,89.44,4293.12,One year,Fiber,No,Credit Card,No
+C01326,Male,69,27,109.48,2955.96,One year,Fiber,Yes,Credit Card,No
+C01327,Male,32,20,117.33,2346.6,Month-to-Month,Fiber,No,UPI,No
+C01328,Male,36,12,47.71,572.52,One year,DSL,Yes,UPI,Yes
+C01329,Female,24,43,132.73,5707.39,Month-to-Month,Fiber,No,Auto-Debit,No
+C01330,Male,68,61,144.26,8799.86,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C01331,Female,45,31,50.77,1573.87,Two year,Fiber,No,Credit Card,No
+C01332,Female,68,61,134.74,8219.14,Month-to-Month,DSL,Yes,Credit Card,No
+C01333,Male,60,67,32.61,2184.87,One year,DSL,Yes,UPI,No
+C01334,Female,22,35,27.24,953.4,Month-to-Month,DSL,No,Credit Card,Yes
+C01335,Female,22,15,36.8,552,One year,Fiber,No,Auto-Debit,No
+C01336,Female,47,16,27.51,440.16,One year,DSL,Yes,UPI,No
+C01337,Male,49,13,129.85,1688.05,Month-to-Month,Fiber,Yes,Credit Card,No
+C01338,Female,25,35,27.68,968.8,Month-to-Month,Fiber,Yes,UPI,No
+C01339,Female,27,59,55.32,3263.88,One year,DSL,Yes,UPI,No
+C01340,Female,55,21,33.49,703.29,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01341,Male,64,54,58.4,3153.6,Month-to-Month,Fiber,No,Credit Card,No
+C01342,Female,49,30,31.77,953.1,One year,Fiber,No,Auto-Debit,No
+C01343,Male,65,48,106.84,5128.32,Month-to-Month,5G,Yes,UPI,No
+C01344,Male,45,35,37.33,1306.55,Two year,5G,Yes,Auto-Debit,No
+C01345,Male,34,38,130.74,4968.12,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01346,Male,48,31,126.23,3913.13,Month-to-Month,DSL,Yes,UPI,No
+C01347,Male,25,24,21.78,522.72,One year,Fiber,Yes,UPI,Yes
+C01348,Male,57,49,136.44,6685.56,Month-to-Month,DSL,Yes,UPI,No
+C01349,Female,42,32,23.76,760.32,Month-to-Month,5G,Yes,Auto-Debit,No
+C01350,Male,26,55,51.15,2813.25,Month-to-Month,Fiber,Yes,UPI,No
+C01351,Female,19,58,24.21,1404.18,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01352,Female,32,3,63.66,190.98,Month-to-Month,Fiber,Yes,Credit Card,No
+C01353,Male,67,69,86.8,5989.2,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01354,Female,20,10,123.56,1235.6,Month-to-Month,DSL,No,Credit Card,No
+C01355,Female,66,25,63.94,1598.5,Month-to-Month,5G,No,Auto-Debit,No
+C01356,Female,53,68,111.71,7596.28,One year,Fiber,No,Auto-Debit,Yes
+C01357,Female,21,61,44.38,2707.18,One year,Fiber,Yes,Credit Card,No
+C01358,Male,31,29,117.58,3409.82,Month-to-Month,Fiber,Yes,UPI,No
+C01359,Female,58,19,50.68,962.92,One year,5G,Yes,UPI,No
+C01360,Male,58,43,38.66,1662.38,One year,DSL,Yes,Credit Card,No
+C01361,Female,42,66,44.1,2910.6,Month-to-Month,DSL,No,UPI,No
+C01362,Female,67,61,43.67,2663.87,One year,Fiber,Yes,Credit Card,No
+C01363,Male,27,43,86.67,3726.81,Month-to-Month,5G,Yes,Auto-Debit,No
+C01364,Female,38,25,129.82,3245.5,Two year,5G,Yes,Auto-Debit,No
+C01365,Female,53,20,30.35,607,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01366,Female,29,48,111.9,5371.2,Month-to-Month,Fiber,No,UPI,No
+C01367,Male,44,24,105.07,2521.68,One year,Fiber,Yes,Auto-Debit,No
+C01368,Female,57,11,133.43,1467.73,Month-to-Month,DSL,Yes,Credit Card,No
+C01369,Male,19,55,51.74,2845.7,Month-to-Month,DSL,Yes,UPI,No
+C01370,Female,30,28,78.51,2198.28,Month-to-Month,Fiber,No,UPI,Yes
+C01371,Male,49,69,140.36,9684.84,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01372,Male,48,63,105.8,6665.4,One year,Fiber,Yes,Auto-Debit,No
+C01373,Female,33,59,70.54,4161.86,One year,DSL,Yes,UPI,Yes
+C01374,Female,49,5,37.08,185.4,Month-to-Month,DSL,No,Auto-Debit,No
+C01375,Male,49,51,54.12,2760.12,Month-to-Month,Fiber,Yes,Credit Card,No
+C01376,Male,51,21,95.56,2006.76,One year,DSL,Yes,Auto-Debit,No
+C01377,Female,28,12,113.36,1360.32,Month-to-Month,Fiber,No,UPI,Yes
+C01378,Male,27,50,36.17,1808.5,One year,Fiber,No,Credit Card,Yes
+C01379,Female,32,4,97.95,391.8,Month-to-Month,5G,Yes,UPI,No
+C01380,Female,34,42,91.55,3845.1,Month-to-Month,Fiber,No,UPI,No
+C01381,Female,57,38,86.81,3298.78,Month-to-Month,Fiber,Yes,UPI,No
+C01382,Female,35,25,109.72,2743,Month-to-Month,Fiber,No,UPI,Yes
+C01383,Male,26,14,128.87,1804.18,Month-to-Month,Fiber,Yes,UPI,No
+C01384,Female,42,32,61.99,1983.68,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01385,Male,57,11,135.57,1491.27,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01386,Female,31,61,40.88,2493.68,Month-to-Month,DSL,No,Credit Card,No
+C01387,Male,42,18,42.49,764.82,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01388,Female,67,27,54.68,1476.36,Month-to-Month,DSL,No,UPI,Yes
+C01389,Male,39,55,35.54,1954.7,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01390,Male,69,54,49.94,2696.76,Month-to-Month,Fiber,No,UPI,No
+C01391,Female,47,21,33.83,710.43,Month-to-Month,Fiber,No,Credit Card,Yes
+C01392,Female,37,44,126.83,5580.52,One year,5G,Yes,Credit Card,Yes
+C01393,Female,38,5,38.07,190.35,Two year,DSL,No,Auto-Debit,No
+C01394,Female,61,41,117.15,4803.15,Month-to-Month,DSL,Yes,UPI,Yes
+C01395,Male,49,59,26.23,1547.57,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01396,Female,68,54,143.31,7738.74,Month-to-Month,5G,Yes,UPI,Yes
+C01397,Male,63,22,112.45,2473.9,One year,Fiber,Yes,Credit Card,No
+C01398,Male,66,65,20.88,1357.2,Month-to-Month,Fiber,No,Credit Card,No
+C01399,Female,38,64,119.3,7635.2,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01400,Male,52,71,86.83,6164.93,One year,Fiber,Yes,Credit Card,No
+C01401,Male,49,4,121.32,485.28,Month-to-Month,5G,No,Auto-Debit,Yes
+C01402,Male,47,65,87.92,5714.8,Month-to-Month,Fiber,Yes,Credit Card,No
+C01403,Male,56,15,103.33,1549.95,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C01404,Female,66,22,122.22,2688.84,One year,DSL,Yes,Credit Card,Yes
+C01405,Female,29,47,72.66,3415.02,Month-to-Month,DSL,No,Credit Card,No
+C01406,Female,58,46,20.35,936.1,Two year,Fiber,Yes,UPI,No
+C01407,Female,64,14,130.49,1826.86,One year,Fiber,Yes,UPI,No
+C01408,Male,35,50,69.52,3476,Month-to-Month,5G,Yes,Credit Card,Yes
+C01409,Male,38,20,84.49,1689.8,Month-to-Month,Fiber,No,Auto-Debit,No
+C01410,Female,30,50,21.01,1050.5,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01411,Female,38,33,83.97,2771.01,One year,5G,No,UPI,No
+C01412,Female,25,59,148.24,8746.16,One year,Fiber,Yes,Credit Card,No
+C01413,Male,63,43,56.17,2415.31,Month-to-Month,DSL,No,Credit Card,No
+C01414,Female,57,12,71.4,856.8,Two year,DSL,Yes,UPI,No
+C01415,Female,63,40,109.33,4373.2,Month-to-Month,Fiber,Yes,Credit Card,No
+C01416,Female,24,20,125.92,2518.4,Month-to-Month,Fiber,No,Auto-Debit,No
+C01417,Male,40,38,74.26,2821.88,Two year,Fiber,Yes,Credit Card,No
+C01418,Male,61,3,60.26,180.78,One year,Fiber,Yes,Auto-Debit,No
+C01419,Male,49,28,141.92,3973.76,Month-to-Month,DSL,Yes,Credit Card,No
+C01420,Male,28,56,108.03,6049.68,One year,Fiber,No,Credit Card,No
+C01421,Male,39,13,35.47,461.11,Two year,5G,Yes,Credit Card,No
+C01422,Male,39,66,28.96,1911.36,One year,Fiber,Yes,Auto-Debit,Yes
+C01423,Male,60,37,82.86,3065.82,One year,DSL,No,UPI,No
+C01424,Male,42,49,48.61,2381.89,One year,DSL,Yes,Auto-Debit,No
+C01425,Female,39,66,53.02,3499.32,Month-to-Month,Fiber,No,UPI,No
+C01426,Female,45,36,134.1,4827.6,One year,Fiber,Yes,Auto-Debit,Yes
+C01427,Male,46,54,31.64,1708.56,Month-to-Month,DSL,No,UPI,Yes
+C01428,Male,30,26,113,2938,Two year,5G,Yes,Credit Card,No
+C01429,Female,35,40,55.25,2210,Month-to-Month,Fiber,Yes,Credit Card,No
+C01430,Male,19,43,118.84,5110.12,One year,Fiber,Yes,UPI,No
+C01431,Male,46,22,113.91,2506.02,Month-to-Month,Fiber,Yes,UPI,Yes
+C01432,Male,38,20,20.96,419.2,Month-to-Month,Fiber,Yes,Credit Card,No
+C01433,Female,32,8,86.19,689.52,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01434,Female,69,29,38.11,1105.19,Two year,5G,Yes,UPI,Yes
+C01435,Female,44,40,132.61,5304.4,Two year,Fiber,Yes,UPI,Yes
+C01436,Female,67,30,133.31,3999.3,Month-to-Month,5G,Yes,Credit Card,No
+C01437,Female,48,55,74.38,4090.9,Two year,Fiber,Yes,UPI,No
+C01438,Male,32,16,77.77,1244.32,One year,DSL,Yes,Credit Card,No
+C01439,Female,68,46,59.43,2733.78,One year,Fiber,Yes,Credit Card,No
+C01440,Male,40,62,113.16,7015.92,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01441,Male,41,7,66.63,466.41,Two year,Fiber,Yes,Credit Card,No
+C01442,Female,61,45,54.81,2466.45,Month-to-Month,Fiber,No,Credit Card,No
+C01443,Female,30,59,76.19,4495.21,Two year,DSL,No,Credit Card,No
+C01444,Male,39,56,31.89,1785.84,One year,DSL,Yes,UPI,No
+C01445,Male,60,48,117.06,5618.88,One year,Fiber,Yes,Credit Card,No
+C01446,Male,54,27,21.64,584.28,One year,5G,No,Credit Card,No
+C01447,Female,50,53,103.78,5500.34,Month-to-Month,Fiber,Yes,UPI,No
+C01448,Female,20,35,43.77,1531.95,Month-to-Month,DSL,No,UPI,No
+C01449,Female,36,51,50.21,2560.71,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01450,Female,40,37,102.63,3797.31,Month-to-Month,Fiber,No,Credit Card,No
+C01451,Female,46,57,149.08,8497.56,Month-to-Month,Fiber,Yes,Credit Card,No
+C01452,Male,47,8,121.1,968.8,One year,DSL,Yes,UPI,Yes
+C01453,Female,56,20,49.36,987.2,Two year,DSL,Yes,Credit Card,No
+C01454,Male,61,53,42.88,2272.64,Month-to-Month,Fiber,No,Auto-Debit,No
+C01455,Male,64,12,132.61,1591.32,Month-to-Month,Fiber,No,UPI,No
+C01456,Male,42,49,77.74,3809.26,Month-to-Month,Fiber,Yes,Credit Card,No
+C01457,Female,54,17,37.82,642.94,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01458,Female,64,64,132.09,8453.76,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01459,Female,25,42,126.09,5295.78,One year,Fiber,Yes,Auto-Debit,No
+C01460,Male,59,29,147.91,4289.39,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01461,Male,33,19,138.27,2627.13,One year,DSL,Yes,UPI,Yes
+C01462,Male,25,11,130.73,1438.03,Month-to-Month,Fiber,No,Credit Card,Yes
+C01463,Male,18,50,26.83,1341.5,Two year,Fiber,No,Credit Card,Yes
+C01464,Male,61,71,33.57,2383.47,One year,Fiber,Yes,Credit Card,No
+C01465,Male,22,58,93.97,5450.26,Two year,Fiber,Yes,Credit Card,No
+C01466,Female,20,34,89.09,3029.06,Two year,DSL,No,UPI,No
+C01467,Female,18,20,79.54,1590.8,Two year,DSL,No,Auto-Debit,No
+C01468,Female,21,50,71.58,3579,Two year,Fiber,No,UPI,No
+C01469,Female,57,10,76.06,760.6,One year,DSL,No,UPI,No
+C01470,Male,52,32,94.01,3008.32,Month-to-Month,Fiber,No,UPI,No
+C01471,Male,49,52,20.27,1054.04,Month-to-Month,5G,Yes,Auto-Debit,No
+C01472,Female,59,15,53.89,808.35,Month-to-Month,DSL,Yes,Credit Card,No
+C01473,Male,51,3,87.38,262.14,One year,DSL,No,UPI,Yes
+C01474,Female,60,37,113.89,4213.93,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01475,Female,42,40,42.64,1705.6,Two year,Fiber,Yes,Auto-Debit,No
+C01476,Female,27,40,91.09,3643.6,Two year,Fiber,Yes,Auto-Debit,No
+C01477,Male,38,56,112.88,6321.28,Month-to-Month,DSL,No,Auto-Debit,No
+C01478,Female,63,23,77.8,1789.4,Month-to-Month,Fiber,No,Credit Card,Yes
+C01479,Female,56,11,23.52,258.72,Two year,5G,Yes,UPI,Yes
+C01480,Female,44,64,78.4,5017.6,Month-to-Month,5G,Yes,Credit Card,No
+C01481,Male,44,8,58.54,468.32,One year,DSL,No,UPI,No
+C01482,Male,19,56,140.85,7887.6,Month-to-Month,5G,Yes,UPI,No
+C01483,Female,58,60,36.2,2172,One year,Fiber,Yes,UPI,No
+C01484,Male,65,10,104.82,1048.2,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01485,Male,30,39,26.85,1047.15,Two year,Fiber,Yes,UPI,No
+C01486,Male,26,28,78,2184,Month-to-Month,DSL,Yes,Credit Card,No
+C01487,Male,69,49,92.02,4508.98,Month-to-Month,Fiber,Yes,Credit Card,No
+C01488,Male,53,36,58.73,2114.28,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C01489,Male,39,13,79.16,1029.08,Month-to-Month,Fiber,No,Credit Card,No
+C01490,Male,59,36,41.26,1485.36,Two year,Fiber,Yes,Credit Card,No
+C01491,Male,43,26,59.54,1548.04,One year,5G,Yes,Credit Card,Yes
+C01492,Male,29,4,100.74,402.96,Month-to-Month,Fiber,Yes,UPI,No
+C01493,Male,34,64,59.23,3790.72,Month-to-Month,Fiber,Yes,Credit Card,No
+C01494,Female,31,38,136.97,5204.86,Month-to-Month,DSL,No,Auto-Debit,No
+C01495,Female,31,22,101.69,2237.18,One year,Fiber,No,Auto-Debit,No
+C01496,Male,51,2,77.02,154.04,One year,Fiber,No,Auto-Debit,No
+C01497,Female,37,31,25.04,776.24,Month-to-Month,Fiber,Yes,Credit Card,No
+C01498,Female,28,11,84.94,934.34,One year,Fiber,No,Auto-Debit,No
+C01499,Male,33,46,119.42,5493.32,One year,5G,Yes,Auto-Debit,No
+C01500,Male,68,62,54.52,3380.24,Two year,5G,No,Auto-Debit,Yes
+C01501,Male,48,69,124.88,8616.72,Two year,Fiber,No,UPI,No
+C01502,Female,23,64,52.73,3374.72,One year,Fiber,Yes,Auto-Debit,No
+C01503,Female,36,10,127.09,1270.9,One year,Fiber,Yes,Credit Card,Yes
+C01504,Male,54,40,31.08,1243.2,Month-to-Month,5G,Yes,Auto-Debit,No
+C01505,Male,21,24,132.6,3182.4,One year,Fiber,Yes,Credit Card,No
+C01506,Male,64,44,84.89,3735.16,Month-to-Month,Fiber,No,Credit Card,No
+C01507,Female,21,60,58.55,3513,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01508,Female,37,62,54.46,3376.52,Month-to-Month,5G,Yes,UPI,No
+C01509,Female,27,17,76.16,1294.72,One year,Fiber,Yes,Credit Card,No
+C01510,Female,41,65,149.88,9742.2,Month-to-Month,Fiber,No,Auto-Debit,No
+C01511,Male,52,57,48.64,2772.48,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01512,Male,43,55,33.42,1838.1,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01513,Male,54,53,96.05,5090.65,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01514,Male,55,56,83.51,4676.56,Month-to-Month,DSL,Yes,Credit Card,No
+C01515,Female,38,9,88.15,793.35,One year,DSL,Yes,Credit Card,No
+C01516,Female,57,22,106.7,2347.4,One year,Fiber,No,Credit Card,No
+C01517,Male,56,13,54.73,711.49,Month-to-Month,Fiber,Yes,Credit Card,No
+C01518,Male,38,48,138.39,6642.72,Two year,Fiber,Yes,Credit Card,No
+C01519,Female,27,18,76.64,1379.52,One year,Fiber,Yes,Credit Card,No
+C01520,Male,55,40,36.78,1471.2,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01521,Female,63,17,116.5,1980.5,One year,Fiber,Yes,UPI,No
+C01522,Male,21,15,103.6,1554,Two year,Fiber,Yes,Auto-Debit,No
+C01523,Male,62,15,61.05,915.75,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01524,Male,37,63,100.8,6350.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01525,Male,34,39,48.58,1894.62,Two year,Fiber,Yes,Auto-Debit,No
+C01526,Male,24,13,77.83,1011.79,One year,5G,No,Auto-Debit,Yes
+C01527,Male,21,32,136.92,4381.44,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01528,Male,46,9,37.36,336.24,Month-to-Month,DSL,No,Credit Card,No
+C01529,Female,31,40,70.27,2810.8,Month-to-Month,Fiber,No,Auto-Debit,No
+C01530,Female,20,20,126.75,2535,Two year,Fiber,Yes,Auto-Debit,No
+C01531,Female,41,63,146.03,9199.89,Month-to-Month,5G,No,Auto-Debit,No
+C01532,Female,54,44,79.01,3476.44,Month-to-Month,Fiber,Yes,Credit Card,No
+C01533,Female,33,38,85.91,3264.58,One year,DSL,Yes,Credit Card,No
+C01534,Male,69,60,94.38,5662.8,Month-to-Month,Fiber,Yes,UPI,No
+C01535,Male,21,71,141.21,10025.91,Month-to-Month,DSL,Yes,UPI,No
+C01536,Female,41,48,131.57,6315.36,Month-to-Month,DSL,Yes,Credit Card,No
+C01537,Male,51,18,42.18,759.24,One year,5G,Yes,Credit Card,Yes
+C01538,Female,47,16,76.78,1228.48,Month-to-Month,5G,Yes,UPI,No
+C01539,Female,35,55,80.32,4417.6,One year,DSL,Yes,Auto-Debit,No
+C01540,Male,36,39,122.58,4780.62,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01541,Male,48,68,98.38,6689.84,Month-to-Month,DSL,Yes,UPI,No
+C01542,Male,36,59,105.05,6197.95,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01543,Female,66,62,149.77,9285.74,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01544,Male,63,13,29.74,386.62,One year,Fiber,Yes,Credit Card,Yes
+C01545,Female,36,6,48.99,293.94,Month-to-Month,5G,Yes,Credit Card,No
+C01546,Female,39,60,73.03,4381.8,One year,Fiber,No,Auto-Debit,No
+C01547,Female,41,14,65.21,912.94,Month-to-Month,Fiber,No,Credit Card,No
+C01548,Male,62,54,22.81,1231.74,Two year,5G,Yes,Auto-Debit,Yes
+C01549,Male,29,4,31.93,127.72,One year,Fiber,No,UPI,No
+C01550,Female,47,39,108.52,4232.28,One year,Fiber,Yes,Credit Card,No
+C01551,Male,55,25,134.31,3357.75,Month-to-Month,DSL,Yes,UPI,No
+C01552,Male,48,32,86.85,2779.2,Month-to-Month,Fiber,No,UPI,No
+C01553,Male,53,59,90.09,5315.31,Month-to-Month,DSL,Yes,UPI,Yes
+C01554,Female,36,63,53.16,3349.08,Two year,Fiber,No,Credit Card,No
+C01555,Female,65,38,119.82,4553.16,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01556,Male,62,53,117.73,6239.69,One year,Fiber,Yes,UPI,No
+C01557,Female,53,67,96.49,6464.83,One year,5G,Yes,UPI,No
+C01558,Male,47,28,47.65,1334.2,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01559,Male,66,3,32.61,97.83,One year,Fiber,Yes,UPI,No
+C01560,Male,50,22,28.35,623.7,One year,Fiber,Yes,Auto-Debit,No
+C01561,Male,35,38,97.05,3687.9,One year,Fiber,No,Auto-Debit,No
+C01562,Female,69,62,127.25,7889.5,Month-to-Month,Fiber,Yes,Credit Card,No
+C01563,Female,66,57,131.58,7500.06,Month-to-Month,Fiber,Yes,UPI,No
+C01564,Female,45,6,80.27,481.62,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01565,Male,64,32,121.96,3902.72,One year,Fiber,No,Credit Card,Yes
+C01566,Male,28,10,143.09,1430.9,One year,DSL,Yes,Credit Card,Yes
+C01567,Male,62,3,55.77,167.31,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01568,Female,50,59,71.73,4232.07,Two year,Fiber,No,Auto-Debit,Yes
+C01569,Male,34,49,141.09,6913.41,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01570,Female,23,59,63.97,3774.23,Two year,DSL,Yes,Credit Card,Yes
+C01571,Female,21,31,138.8,4302.8,Two year,DSL,No,Credit Card,No
+C01572,Female,37,69,147.54,10180.26,Two year,Fiber,No,Credit Card,No
+C01573,Female,65,62,106.04,6574.48,One year,5G,Yes,UPI,Yes
+C01574,Female,64,52,126.2,6562.4,Month-to-Month,Fiber,Yes,UPI,No
+C01575,Female,44,41,117.44,4815.04,Month-to-Month,Fiber,No,Credit Card,No
+C01576,Male,32,31,110.94,3439.14,One year,Fiber,Yes,Credit Card,No
+C01577,Male,23,22,59.9,1317.8,Month-to-Month,5G,No,UPI,No
+C01578,Female,64,4,27.42,109.68,Month-to-Month,DSL,Yes,UPI,No
+C01579,Female,31,13,64.6,839.8,One year,DSL,Yes,Credit Card,Yes
+C01580,Male,28,45,106.7,4801.5,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01581,Female,56,42,33.33,1399.86,Two year,Fiber,No,Credit Card,Yes
+C01582,Female,26,49,21.55,1055.95,One year,Fiber,No,Auto-Debit,No
+C01583,Male,43,20,38.16,763.2,One year,5G,Yes,Auto-Debit,No
+C01584,Female,33,54,113.05,6104.7,One year,Fiber,No,UPI,Yes
+C01585,Female,22,36,146.46,5272.56,Two year,Fiber,Yes,Credit Card,No
+C01586,Female,69,1,147.8,147.8,One year,Fiber,Yes,Credit Card,No
+C01587,Male,27,15,84.22,1263.3,One year,5G,No,Auto-Debit,No
+C01588,Male,67,17,133.02,2261.34,Month-to-Month,Fiber,No,Credit Card,No
+C01589,Male,20,24,115.79,2778.96,Two year,Fiber,No,Auto-Debit,No
+C01590,Female,30,58,85.14,4938.12,One year,Fiber,No,Auto-Debit,No
+C01591,Female,60,23,94.46,2172.58,Month-to-Month,5G,Yes,Auto-Debit,No
+C01592,Male,66,46,37.84,1740.64,Month-to-Month,5G,Yes,UPI,No
+C01593,Female,47,8,141.9,1135.2,One year,DSL,No,Auto-Debit,No
+C01594,Female,62,59,65.75,3879.25,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01595,Female,23,59,78,4602,Two year,Fiber,Yes,Credit Card,No
+C01596,Female,34,13,107.32,1395.16,Two year,5G,No,Credit Card,No
+C01597,Female,62,39,63.41,2472.99,Month-to-Month,Fiber,Yes,Credit Card,No
+C01598,Male,68,28,53.05,1485.4,One year,Fiber,No,Credit Card,No
+C01599,Female,36,61,102.04,6224.44,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01600,Male,59,16,23.25,372,One year,5G,No,UPI,No
+C01601,Female,52,2,113.69,227.38,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01602,Male,63,17,86.82,1475.94,One year,DSL,Yes,Auto-Debit,No
+C01603,Female,43,30,98.75,2962.5,Month-to-Month,5G,Yes,UPI,No
+C01604,Male,68,13,102.14,1327.82,Month-to-Month,Fiber,Yes,UPI,No
+C01605,Female,22,13,88.52,1150.76,Month-to-Month,Fiber,Yes,Credit Card,No
+C01606,Male,46,43,95.73,4116.39,Month-to-Month,5G,Yes,Auto-Debit,No
+C01607,Female,54,21,108.89,2286.69,Month-to-Month,5G,Yes,UPI,No
+C01608,Male,37,55,117.91,6485.05,Month-to-Month,5G,Yes,UPI,No
+C01609,Female,66,40,114.57,4582.8,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01610,Male,38,15,133.05,1995.75,Two year,Fiber,Yes,Auto-Debit,No
+C01611,Male,27,52,44.63,2320.76,One year,5G,No,Auto-Debit,Yes
+C01612,Female,22,53,72.15,3823.95,Two year,Fiber,Yes,UPI,No
+C01613,Female,53,52,143.21,7446.92,Two year,5G,No,UPI,No
+C01614,Male,23,30,71.56,2146.8,Month-to-Month,5G,No,Auto-Debit,No
+C01615,Female,43,33,36.23,1195.59,Month-to-Month,DSL,No,Credit Card,Yes
+C01616,Male,21,57,88.31,5033.67,Month-to-Month,5G,No,Credit Card,No
+C01617,Male,56,52,34.23,1779.96,Two year,DSL,Yes,UPI,No
+C01618,Male,56,9,46.37,417.33,Two year,Fiber,No,Credit Card,Yes
+C01619,Female,67,54,149.78,8088.12,Month-to-Month,DSL,Yes,UPI,No
+C01620,Male,52,1,90.38,90.38,Month-to-Month,Fiber,No,UPI,Yes
+C01621,Male,18,44,56.93,2504.92,Month-to-Month,DSL,No,Credit Card,No
+C01622,Female,41,9,149.32,1343.88,One year,Fiber,Yes,Credit Card,No
+C01623,Female,53,32,145.65,4660.8,One year,Fiber,Yes,Credit Card,No
+C01624,Female,23,15,77.3,1159.5,Month-to-Month,5G,Yes,Credit Card,No
+C01625,Female,58,12,53.85,646.2,Month-to-Month,5G,No,UPI,No
+C01626,Male,63,57,128.99,7352.43,One year,Fiber,Yes,UPI,No
+C01627,Male,61,8,113.03,904.24,One year,DSL,Yes,Auto-Debit,No
+C01628,Male,48,27,109.3,2951.1,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01629,Male,37,62,136.1,8438.2,Two year,5G,Yes,Auto-Debit,No
+C01630,Female,41,12,109.62,1315.44,Month-to-Month,Fiber,No,Credit Card,No
+C01631,Male,42,65,56.89,3697.85,One year,DSL,No,UPI,Yes
+C01632,Male,53,42,110.2,4628.4,One year,5G,Yes,UPI,Yes
+C01633,Female,38,62,59.76,3705.12,Month-to-Month,Fiber,Yes,UPI,Yes
+C01634,Male,47,11,118.7,1305.7,Month-to-Month,5G,Yes,Auto-Debit,No
+C01635,Male,41,43,100.57,4324.51,One year,5G,Yes,Credit Card,No
+C01636,Male,61,17,30.06,511.02,Month-to-Month,5G,No,Credit Card,No
+C01637,Male,59,32,86.67,2773.44,One year,Fiber,Yes,Auto-Debit,No
+C01638,Male,47,40,64.63,2585.2,One year,Fiber,Yes,Credit Card,No
+C01639,Male,39,23,62.71,1442.33,One year,5G,No,Credit Card,No
+C01640,Female,45,56,98.29,5504.24,Month-to-Month,Fiber,No,Credit Card,No
+C01641,Female,24,6,61.9,371.4,Month-to-Month,DSL,Yes,Credit Card,No
+C01642,Male,52,50,121,6050,One year,Fiber,Yes,UPI,No
+C01643,Male,45,37,29.2,1080.4,Month-to-Month,Fiber,Yes,UPI,No
+C01644,Female,31,64,105.85,6774.4,One year,Fiber,No,Credit Card,Yes
+C01645,Male,27,54,125.2,6760.8,One year,DSL,No,Credit Card,No
+C01646,Male,33,49,107.47,5266.03,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01647,Male,33,11,84.64,931.04,One year,DSL,Yes,Auto-Debit,No
+C01648,Female,48,49,143.54,7033.46,Month-to-Month,DSL,No,Auto-Debit,No
+C01649,Male,59,21,58.99,1238.79,Month-to-Month,DSL,No,Auto-Debit,No
+C01650,Female,42,66,22.49,1484.34,Two year,DSL,No,Auto-Debit,No
+C01651,Male,30,63,76.16,4798.08,Two year,Fiber,Yes,Auto-Debit,No
+C01652,Female,23,28,24.29,680.12,Month-to-Month,Fiber,Yes,UPI,No
+C01653,Female,61,17,144.01,2448.17,Two year,Fiber,Yes,Credit Card,No
+C01654,Male,26,6,47.29,283.74,Month-to-Month,DSL,Yes,UPI,No
+C01655,Female,62,19,122.56,2328.64,Month-to-Month,DSL,Yes,Credit Card,No
+C01656,Male,53,56,120.69,6758.64,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01657,Female,60,28,48.3,1352.4,Two year,Fiber,Yes,UPI,Yes
+C01658,Male,37,66,100.76,6650.16,Month-to-Month,DSL,No,UPI,Yes
+C01659,Male,35,38,26.25,997.5,Month-to-Month,Fiber,Yes,Credit Card,No
+C01660,Female,60,37,82.86,3065.82,Month-to-Month,5G,No,UPI,Yes
+C01661,Male,38,68,21.9,1489.2,One year,Fiber,Yes,Credit Card,No
+C01662,Male,21,49,139.75,6847.75,Month-to-Month,5G,No,Credit Card,No
+C01663,Female,67,43,146.89,6316.27,Month-to-Month,Fiber,Yes,Credit Card,No
+C01664,Male,50,36,48.9,1760.4,Month-to-Month,Fiber,No,Credit Card,Yes
+C01665,Male,44,58,47.05,2728.9,One year,Fiber,Yes,UPI,No
+C01666,Female,24,13,117.98,1533.74,One year,Fiber,Yes,UPI,No
+C01667,Female,23,52,52.94,2752.88,Month-to-Month,Fiber,No,Auto-Debit,No
+C01668,Male,32,58,136.36,7908.88,One year,Fiber,Yes,UPI,No
+C01669,Male,35,32,94.61,3027.52,Month-to-Month,DSL,Yes,Credit Card,No
+C01670,Female,49,60,65.6,3936,Two year,Fiber,No,Auto-Debit,No
+C01671,Female,28,58,128.25,7438.5,Month-to-Month,DSL,No,UPI,No
+C01672,Male,37,56,84.14,4711.84,Month-to-Month,Fiber,Yes,UPI,No
+C01673,Female,41,28,138.51,3878.28,Month-to-Month,5G,Yes,UPI,No
+C01674,Male,32,1,140.64,140.64,One year,DSL,Yes,Auto-Debit,Yes
+C01675,Male,65,42,41.5,1743,Two year,Fiber,Yes,Credit Card,No
+C01676,Male,24,48,20.3,974.4,Month-to-Month,Fiber,No,Credit Card,Yes
+C01677,Male,38,40,147.91,5916.4,One year,Fiber,Yes,Auto-Debit,No
+C01678,Male,59,63,137.8,8681.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01679,Female,43,4,27.21,108.84,Month-to-Month,DSL,No,Auto-Debit,Yes
+C01680,Female,61,38,128.29,4875.02,Month-to-Month,DSL,Yes,UPI,No
+C01681,Female,31,27,79.51,2146.77,One year,5G,No,UPI,No
+C01682,Female,54,9,53.67,483.03,One year,DSL,Yes,Auto-Debit,No
+C01683,Male,38,16,134.24,2147.84,Month-to-Month,5G,Yes,Credit Card,Yes
+C01684,Male,35,56,45.57,2551.92,Month-to-Month,5G,Yes,Auto-Debit,No
+C01685,Male,22,31,143.15,4437.65,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C01686,Male,20,14,46.73,654.22,Month-to-Month,Fiber,Yes,UPI,No
+C01687,Female,40,25,99.78,2494.5,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01688,Male,43,34,49,1666,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01689,Male,54,67,90.94,6092.98,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01690,Female,41,24,108.92,2614.08,Month-to-Month,Fiber,Yes,Credit Card,No
+C01691,Female,66,26,44.73,1162.98,Month-to-Month,Fiber,Yes,Credit Card,No
+C01692,Female,36,20,87.72,1754.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01693,Female,68,64,80.98,5182.72,Month-to-Month,Fiber,No,Credit Card,Yes
+C01694,Male,42,10,29.23,292.3,One year,DSL,Yes,Credit Card,No
+C01695,Male,38,67,126.38,8467.46,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01696,Female,29,24,63.64,1527.36,One year,DSL,No,Auto-Debit,No
+C01697,Male,58,5,94.7,473.5,Month-to-Month,DSL,Yes,Credit Card,No
+C01698,Male,50,67,86.92,5823.64,Month-to-Month,Fiber,No,Credit Card,No
+C01699,Male,67,58,86.72,5029.76,Month-to-Month,DSL,No,Auto-Debit,Yes
+C01700,Female,21,27,33.94,916.38,Month-to-Month,DSL,Yes,Credit Card,No
+C01701,Male,59,15,75.05,1125.75,Month-to-Month,Fiber,Yes,Credit Card,No
+C01702,Female,24,35,78.81,2758.35,Two year,Fiber,No,UPI,No
+C01703,Male,39,53,115.37,6114.61,Month-to-Month,Fiber,Yes,UPI,No
+C01704,Male,50,44,129.2,5684.8,Month-to-Month,DSL,No,Credit Card,No
+C01705,Male,34,26,90.85,2362.1,One year,DSL,Yes,Auto-Debit,No
+C01706,Female,41,47,31.28,1470.16,Month-to-Month,Fiber,Yes,UPI,Yes
+C01707,Male,51,34,50.79,1726.86,One year,Fiber,Yes,Credit Card,No
+C01708,Female,45,50,41.44,2072,Month-to-Month,Fiber,Yes,Auto-Debit,Yes
+C01709,Female,60,12,36.2,434.4,Two year,5G,Yes,UPI,No
+C01710,Female,58,4,67.57,270.28,Month-to-Month,Fiber,No,Credit Card,No
+C01711,Male,56,48,49.82,2391.36,Month-to-Month,5G,No,Credit Card,No
+C01712,Male,39,55,48.38,2660.9,Two year,Fiber,No,Credit Card,No
+C01713,Male,66,1,27.11,27.11,Month-to-Month,DSL,Yes,UPI,No
+C01714,Male,34,66,22.3,1471.8,Month-to-Month,DSL,No,Credit Card,Yes
+C01715,Female,51,30,33.36,1000.8,One year,DSL,No,UPI,No
+C01716,Female,23,3,42.39,127.17,Month-to-Month,Fiber,No,Credit Card,No
+C01717,Female,63,21,76.03,1596.63,Month-to-Month,DSL,Yes,UPI,No
+C01718,Male,23,49,86.37,4232.13,One year,Fiber,No,Auto-Debit,Yes
+C01719,Female,51,62,38.28,2373.36,Month-to-Month,Fiber,Yes,UPI,No
+C01720,Male,18,38,75.22,2858.36,One year,DSL,Yes,UPI,No
+C01721,Female,27,15,64.43,966.45,Two year,5G,No,Auto-Debit,No
+C01722,Male,38,52,43.85,2280.2,Month-to-Month,DSL,Yes,UPI,No
+C01723,Male,22,46,20.89,960.94,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01724,Female,19,25,80.71,2017.75,Month-to-Month,DSL,No,UPI,No
+C01725,Female,39,21,109.13,2291.73,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01726,Female,65,5,49.42,247.1,Two year,5G,No,Credit Card,Yes
+C01727,Female,19,70,37.13,2599.1,Month-to-Month,5G,No,Credit Card,Yes
+C01728,Male,27,47,135.32,6360.04,Month-to-Month,DSL,Yes,UPI,No
+C01729,Female,51,68,55.75,3791,One year,Fiber,Yes,UPI,No
+C01730,Female,33,18,49.07,883.26,Two year,DSL,No,Auto-Debit,No
+C01731,Female,65,21,131.42,2759.82,Month-to-Month,DSL,Yes,Credit Card,No
+C01732,Male,68,23,126.22,2903.06,Month-to-Month,5G,No,Credit Card,Yes
+C01733,Male,56,64,78.29,5010.56,One year,Fiber,No,Auto-Debit,No
+C01734,Female,39,67,83.6,5601.2,Two year,Fiber,Yes,Credit Card,No
+C01735,Male,29,40,48.31,1932.4,One year,Fiber,Yes,Credit Card,No
+C01736,Female,41,10,30.18,301.8,Month-to-Month,DSL,No,UPI,No
+C01737,Male,64,52,94.55,4916.6,Month-to-Month,5G,Yes,Auto-Debit,No
+C01738,Male,57,61,32.78,1999.58,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01739,Male,55,64,78.41,5018.24,Month-to-Month,DSL,No,Auto-Debit,No
+C01740,Male,27,5,142.26,711.3,Two year,DSL,No,Credit Card,No
+C01741,Female,52,53,143.87,7625.11,Two year,DSL,Yes,Credit Card,No
+C01742,Female,68,55,51.11,2811.05,Two year,Fiber,Yes,Credit Card,No
+C01743,Female,66,37,101.13,3741.81,Month-to-Month,5G,No,Auto-Debit,No
+C01744,Male,49,56,81.63,4571.28,One year,Fiber,No,UPI,No
+C01745,Female,24,59,133.84,7896.56,One year,DSL,No,Credit Card,No
+C01746,Female,38,69,55.29,3815.01,One year,Fiber,No,Auto-Debit,No
+C01747,Female,37,59,20.48,1208.32,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01748,Male,43,2,41.13,82.26,Month-to-Month,5G,No,UPI,No
+C01749,Male,21,65,65.44,4253.6,Two year,Fiber,No,Auto-Debit,Yes
+C01750,Male,63,60,61.04,3662.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01751,Female,69,51,122.88,6266.88,Two year,DSL,Yes,Credit Card,No
+C01752,Female,39,30,108.47,3254.1,Month-to-Month,DSL,No,Credit Card,No
+C01753,Female,32,11,58.94,648.34,One year,DSL,Yes,Credit Card,Yes
+C01754,Male,57,39,79.51,3100.89,One year,Fiber,Yes,Credit Card,Yes
+C01755,Male,38,63,32.42,2042.46,One year,Fiber,Yes,UPI,No
+C01756,Female,32,64,136.76,8752.64,Month-to-Month,Fiber,Yes,Credit Card,No
+C01757,Male,39,61,141.61,8638.21,Two year,Fiber,Yes,Auto-Debit,No
+C01758,Male,69,54,147.37,7957.98,One year,5G,Yes,Credit Card,Yes
+C01759,Male,45,58,132.91,7708.78,Month-to-Month,Fiber,No,Credit Card,No
+C01760,Male,31,56,42.61,2386.16,One year,Fiber,No,Credit Card,No
+C01761,Female,44,34,26.01,884.34,Month-to-Month,Fiber,No,Auto-Debit,No
+C01762,Male,58,31,95.35,2955.85,Month-to-Month,Fiber,Yes,UPI,No
+C01763,Male,57,52,138.64,7209.28,Month-to-Month,DSL,No,Auto-Debit,No
+C01764,Male,45,1,43.06,43.06,Two year,DSL,No,Auto-Debit,No
+C01765,Male,43,55,20.92,1150.6,Month-to-Month,Fiber,No,Auto-Debit,No
+C01766,Female,66,22,124.71,2743.62,One year,Fiber,Yes,Auto-Debit,No
+C01767,Female,19,40,29.98,1199.2,Month-to-Month,Fiber,Yes,Credit Card,No
+C01768,Male,42,1,73.78,73.78,Month-to-Month,DSL,No,Auto-Debit,No
+C01769,Male,20,65,108.26,7036.9,Two year,DSL,No,Auto-Debit,No
+C01770,Male,25,63,50.78,3199.14,One year,Fiber,No,Auto-Debit,No
+C01771,Male,61,54,30.92,1669.68,Two year,Fiber,Yes,Credit Card,No
+C01772,Male,50,42,120.1,5044.2,Month-to-Month,DSL,Yes,UPI,Yes
+C01773,Male,59,21,101.92,2140.32,Month-to-Month,5G,No,Credit Card,No
+C01774,Female,69,22,148.5,3267,Two year,5G,Yes,Credit Card,No
+C01775,Male,52,38,64.76,2460.88,One year,Fiber,No,Auto-Debit,No
+C01776,Female,23,8,28.03,224.24,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01777,Female,56,62,115.47,7159.14,Month-to-Month,Fiber,No,UPI,No
+C01778,Male,69,47,87.83,4128.01,One year,DSL,Yes,Auto-Debit,No
+C01779,Female,40,17,47.72,811.24,Month-to-Month,5G,Yes,Credit Card,No
+C01780,Female,42,17,121.62,2067.54,One year,Fiber,No,Credit Card,Yes
+C01781,Female,67,13,46.49,604.37,Month-to-Month,Fiber,No,UPI,No
+C01782,Female,60,17,53.89,916.13,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01783,Female,36,38,32.03,1217.14,Two year,Fiber,Yes,Auto-Debit,No
+C01784,Female,22,45,71.93,3236.85,Month-to-Month,Fiber,Yes,Credit Card,No
+C01785,Male,68,6,74.46,446.76,Month-to-Month,DSL,No,UPI,Yes
+C01786,Female,28,35,86.89,3041.15,One year,Fiber,No,UPI,No
+C01787,Female,29,14,112.17,1570.38,Month-to-Month,Fiber,No,Credit Card,No
+C01788,Female,27,61,137.79,8405.19,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01789,Male,25,15,37.91,568.65,One year,Fiber,No,UPI,No
+C01790,Female,41,54,27.07,1461.78,Month-to-Month,Fiber,Yes,UPI,No
+C01791,Male,45,27,22.41,605.07,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01792,Female,58,13,38.67,502.71,Month-to-Month,5G,No,Credit Card,No
+C01793,Male,53,31,105.53,3271.43,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01794,Male,54,35,114.57,4009.95,One year,Fiber,Yes,Credit Card,No
+C01795,Female,38,60,122.25,7335,One year,DSL,No,Credit Card,No
+C01796,Female,25,6,51.68,310.08,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01797,Male,26,69,59.77,4124.13,One year,DSL,Yes,Auto-Debit,Yes
+C01798,Female,64,58,82.81,4802.98,Two year,DSL,Yes,Credit Card,No
+C01799,Male,32,49,28.21,1382.29,Month-to-Month,5G,Yes,UPI,No
+C01800,Male,65,23,99.45,2287.35,One year,Fiber,No,Auto-Debit,No
+C01801,Male,63,34,147.89,5028.26,Month-to-Month,5G,Yes,Credit Card,Yes
+C01802,Male,57,26,66.9,1739.4,Two year,5G,No,Credit Card,No
+C01803,Male,35,47,117.87,5539.89,Two year,5G,Yes,UPI,No
+C01804,Female,59,5,85,425,Month-to-Month,DSL,Yes,Credit Card,No
+C01805,Male,37,20,36.62,732.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01806,Male,23,6,95.69,574.14,Month-to-Month,Fiber,No,Auto-Debit,Yes
+C01807,Female,29,70,58.98,4128.6,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01808,Male,19,59,24.47,1443.73,Month-to-Month,Fiber,No,Auto-Debit,No
+C01809,Female,24,64,102.54,6562.56,One year,DSL,Yes,UPI,No
+C01810,Female,33,18,131.66,2369.88,Month-to-Month,DSL,No,UPI,Yes
+C01811,Female,20,4,64.82,259.28,Month-to-Month,5G,No,UPI,No
+C01812,Male,62,17,70.74,1202.58,One year,Fiber,No,UPI,No
+C01813,Male,20,14,135.83,1901.62,Month-to-Month,Fiber,No,Credit Card,No
+C01814,Male,44,13,125.77,1635.01,Two year,DSL,Yes,Credit Card,No
+C01815,Female,67,7,112.94,790.58,One year,Fiber,No,Auto-Debit,No
+C01816,Male,60,44,52.34,2302.96,Month-to-Month,Fiber,Yes,Credit Card,No
+C01817,Female,57,15,138.33,2074.95,Month-to-Month,5G,Yes,Credit Card,Yes
+C01818,Male,55,19,40.07,761.33,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01819,Female,50,63,101.48,6393.24,One year,Fiber,Yes,Auto-Debit,No
+C01820,Male,45,35,23.74,830.9,Month-to-Month,5G,Yes,Credit Card,No
+C01821,Male,18,35,103.68,3628.8,One year,DSL,Yes,Credit Card,No
+C01822,Male,25,19,56.03,1064.57,One year,DSL,Yes,Auto-Debit,No
+C01823,Female,54,20,78.46,1569.2,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C01824,Female,49,35,64.88,2270.8,Two year,Fiber,Yes,Credit Card,Yes
+C01825,Male,65,32,42.46,1358.72,Month-to-Month,DSL,No,Credit Card,No
+C01826,Male,60,48,100.86,4841.28,Two year,Fiber,No,Auto-Debit,No
+C01827,Female,54,44,134.66,5925.04,Month-to-Month,Fiber,No,Auto-Debit,No
+C01828,Female,21,24,144.68,3472.32,One year,5G,Yes,Auto-Debit,No
+C01829,Female,47,61,45.01,2745.61,Month-to-Month,DSL,Yes,Credit Card,No
+C01830,Male,23,17,113.26,1925.42,One year,DSL,No,UPI,No
+C01831,Female,63,71,106.36,7551.56,Month-to-Month,5G,No,UPI,No
+C01832,Male,36,50,64.64,3232,Month-to-Month,5G,No,Credit Card,Yes
+C01833,Female,49,65,22.48,1461.2,Month-to-Month,5G,Yes,Credit Card,Yes
+C01834,Male,26,32,109.67,3509.44,Month-to-Month,Fiber,Yes,Credit Card,No
+C01835,Female,29,36,142.91,5144.76,One year,Fiber,No,UPI,No
+C01836,Female,28,13,102.18,1328.34,Two year,Fiber,Yes,UPI,No
+C01837,Female,63,70,76.59,5361.3,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01838,Female,33,58,88.27,5119.66,Month-to-Month,Fiber,No,Auto-Debit,No
+C01839,Female,18,14,45.95,643.3,Month-to-Month,DSL,No,Auto-Debit,No
+C01840,Male,62,37,117.57,4350.09,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01841,Female,38,68,117.03,7958.04,Month-to-Month,5G,Yes,Credit Card,Yes
+C01842,Female,47,40,38.92,1556.8,Month-to-Month,DSL,No,Credit Card,Yes
+C01843,Female,30,59,134.14,7914.26,Month-to-Month,DSL,Yes,UPI,No
+C01844,Male,51,16,54.99,879.84,Month-to-Month,Fiber,No,Credit Card,No
+C01845,Female,21,62,147.69,9156.78,Two year,Fiber,No,Auto-Debit,Yes
+C01846,Male,45,4,69.78,279.12,Month-to-Month,Fiber,No,Credit Card,Yes
+C01847,Female,55,45,43.12,1940.4,Month-to-Month,DSL,No,Credit Card,No
+C01848,Female,48,28,65.72,1840.16,One year,Fiber,Yes,UPI,No
+C01849,Male,44,66,77.22,5096.52,One year,DSL,Yes,UPI,No
+C01850,Female,22,31,29.01,899.31,Month-to-Month,DSL,Yes,UPI,Yes
+C01851,Male,42,3,95.17,285.51,One year,Fiber,Yes,UPI,No
+C01852,Male,20,8,97.69,781.52,Two year,Fiber,Yes,Credit Card,No
+C01853,Female,50,24,116.06,2785.44,Month-to-Month,Fiber,Yes,Credit Card,No
+C01854,Male,21,15,23.79,356.85,Month-to-Month,Fiber,No,Auto-Debit,No
+C01855,Female,42,43,90.36,3885.48,Month-to-Month,DSL,Yes,Credit Card,No
+C01856,Female,37,31,26.88,833.28,Month-to-Month,DSL,Yes,Credit Card,No
+C01857,Male,51,45,111.15,5001.75,Month-to-Month,DSL,Yes,UPI,No
+C01858,Male,43,66,27.24,1797.84,One year,5G,No,Credit Card,No
+C01859,Male,22,8,138.52,1108.16,Month-to-Month,DSL,Yes,UPI,No
+C01860,Male,52,71,111.27,7900.17,Month-to-Month,5G,Yes,UPI,No
+C01861,Female,45,57,85.96,4899.72,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01862,Female,46,30,77.4,2322,Month-to-Month,DSL,No,Auto-Debit,No
+C01863,Male,26,18,36.99,665.82,One year,Fiber,No,Credit Card,No
+C01864,Female,69,69,57.83,3990.27,Month-to-Month,Fiber,No,UPI,No
+C01865,Female,55,39,132.96,5185.44,Two year,Fiber,Yes,Credit Card,Yes
+C01866,Female,67,60,137.58,8254.8,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01867,Female,23,43,20.1,864.3,Month-to-Month,Fiber,Yes,UPI,No
+C01868,Male,36,45,97.24,4375.8,One year,Fiber,Yes,Credit Card,No
+C01869,Male,61,23,113.51,2610.73,Month-to-Month,5G,Yes,UPI,No
+C01870,Female,28,69,100.44,6930.36,Month-to-Month,5G,Yes,Auto-Debit,No
+C01871,Male,19,6,30.62,183.72,One year,DSL,No,Auto-Debit,No
+C01872,Male,64,56,48.3,2704.8,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01873,Male,61,4,52.54,210.16,Two year,5G,Yes,Credit Card,No
+C01874,Female,61,23,128.12,2946.76,Two year,DSL,Yes,Credit Card,Yes
+C01875,Female,26,6,80.22,481.32,Month-to-Month,Fiber,Yes,Credit Card,No
+C01876,Female,38,32,83.29,2665.28,Month-to-Month,5G,No,Credit Card,No
+C01877,Male,41,18,141.54,2547.72,Month-to-Month,DSL,No,Credit Card,Yes
+C01878,Female,51,15,102.82,1542.3,Month-to-Month,Fiber,No,Credit Card,No
+C01879,Female,39,40,136.83,5473.2,One year,Fiber,Yes,UPI,No
+C01880,Male,20,6,79.35,476.1,One year,Fiber,Yes,Auto-Debit,No
+C01881,Female,29,63,39.43,2484.09,Month-to-Month,5G,Yes,Auto-Debit,No
+C01882,Female,45,67,140.89,9439.63,Month-to-Month,Fiber,No,UPI,Yes
+C01883,Male,47,11,79.63,875.93,Month-to-Month,5G,No,UPI,Yes
+C01884,Male,43,43,43.61,1875.23,Month-to-Month,5G,No,UPI,No
+C01885,Male,65,17,59.31,1008.27,One year,DSL,Yes,UPI,Yes
+C01886,Female,38,4,26.6,106.4,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01887,Female,45,63,80.88,5095.44,One year,Fiber,Yes,Auto-Debit,No
+C01888,Female,43,68,130.91,8901.88,One year,Fiber,No,UPI,No
+C01889,Male,50,41,141.37,5796.17,One year,Fiber,No,Credit Card,Yes
+C01890,Male,38,5,141.24,706.2,Month-to-Month,DSL,No,Credit Card,No
+C01891,Female,52,32,36.28,1160.96,One year,Fiber,Yes,Credit Card,No
+C01892,Female,69,70,69.67,4876.9,One year,Fiber,Yes,UPI,No
+C01893,Male,51,35,23.67,828.45,One year,Fiber,Yes,Auto-Debit,Yes
+C01894,Male,58,22,131.17,2885.74,Month-to-Month,5G,Yes,Credit Card,No
+C01895,Male,68,65,66.64,4331.6,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01896,Male,64,22,102.05,2245.1,One year,5G,Yes,Auto-Debit,No
+C01897,Female,35,11,112.94,1242.34,Month-to-Month,Fiber,No,Credit Card,No
+C01898,Male,28,3,75.88,227.64,Month-to-Month,DSL,No,Credit Card,Yes
+C01899,Female,40,9,59.84,538.56,Two year,Fiber,Yes,Credit Card,No
+C01900,Female,65,60,145.09,8705.4,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01901,Female,39,14,145.38,2035.32,Month-to-Month,DSL,Yes,UPI,No
+C01902,Male,34,18,57.63,1037.34,Month-to-Month,Fiber,No,UPI,No
+C01903,Male,22,23,82.35,1894.05,One year,DSL,Yes,Auto-Debit,No
+C01904,Male,61,47,146.47,6884.09,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01905,Male,28,69,20.63,1423.47,One year,DSL,No,Credit Card,Yes
+C01906,Female,47,47,73.65,3461.55,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01907,Male,32,30,33.06,991.8,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01908,Male,44,25,86.19,2154.75,One year,DSL,No,UPI,No
+C01909,Female,52,28,23.21,649.88,Month-to-Month,5G,No,Credit Card,No
+C01910,Male,50,25,72.9,1822.5,Two year,5G,No,UPI,Yes
+C01911,Female,37,58,48.69,2824.02,Month-to-Month,5G,Yes,Credit Card,Yes
+C01912,Female,33,41,89.33,3662.53,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01913,Female,51,25,149.48,3737,Month-to-Month,DSL,No,Credit Card,No
+C01914,Female,19,48,124.07,5955.36,Month-to-Month,DSL,Yes,UPI,No
+C01915,Female,52,10,129.93,1299.3,Two year,Fiber,No,Credit Card,No
+C01916,Female,57,11,102.58,1128.38,Two year,5G,No,Auto-Debit,No
+C01917,Female,45,21,25.4,533.4,Month-to-Month,DSL,No,Auto-Debit,No
+C01918,Female,64,45,46.88,2109.6,Month-to-Month,Fiber,Yes,Credit Card,No
+C01919,Male,56,7,140.26,981.82,One year,Fiber,Yes,Auto-Debit,No
+C01920,Male,23,64,67.59,4325.76,Month-to-Month,5G,Yes,Credit Card,Yes
+C01921,Male,26,64,33.47,2142.08,Month-to-Month,Fiber,No,UPI,No
+C01922,Male,37,2,111.31,222.62,Two year,Fiber,Yes,Auto-Debit,Yes
+C01923,Female,18,42,58.93,2475.06,Two year,Fiber,Yes,Credit Card,Yes
+C01924,Male,25,54,54.95,2967.3,Two year,Fiber,Yes,Auto-Debit,Yes
+C01925,Female,40,16,149.74,2395.84,One year,5G,Yes,Credit Card,No
+C01926,Male,20,18,131.56,2368.08,One year,Fiber,Yes,Credit Card,No
+C01927,Male,21,59,73.03,4308.77,Month-to-Month,DSL,Yes,Auto-Debit,Yes
+C01928,Male,42,16,147.43,2358.88,Month-to-Month,5G,No,Auto-Debit,Yes
+C01929,Female,64,6,104.51,627.06,Month-to-Month,DSL,Yes,Credit Card,Yes
+C01930,Male,55,57,116.46,6638.22,One year,Fiber,Yes,Credit Card,No
+C01931,Female,32,47,24.1,1132.7,One year,DSL,No,Auto-Debit,Yes
+C01932,Female,38,48,35.81,1718.88,One year,Fiber,No,Credit Card,No
+C01933,Male,52,42,102.3,4296.6,Two year,Fiber,Yes,Auto-Debit,Yes
+C01934,Male,63,60,136.87,8212.2,Two year,DSL,Yes,Auto-Debit,Yes
+C01935,Male,69,4,101.09,404.36,Two year,5G,No,Credit Card,Yes
+C01936,Female,31,2,37.42,74.84,Month-to-Month,DSL,Yes,Credit Card,No
+C01937,Male,53,59,35.05,2067.95,One year,5G,Yes,UPI,No
+C01938,Female,29,27,129.74,3502.98,Month-to-Month,DSL,Yes,Credit Card,No
+C01939,Female,34,27,38.11,1028.97,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01940,Male,56,7,87.63,613.41,Two year,5G,Yes,Auto-Debit,Yes
+C01941,Male,26,63,24.82,1563.66,Two year,Fiber,No,UPI,Yes
+C01942,Female,52,46,30.49,1402.54,Month-to-Month,Fiber,No,UPI,No
+C01943,Female,30,63,107.41,6766.83,Month-to-Month,DSL,Yes,Credit Card,No
+C01944,Female,32,12,109.59,1315.08,One year,DSL,Yes,UPI,No
+C01945,Male,35,13,64.39,837.07,One year,Fiber,Yes,UPI,No
+C01946,Female,68,43,48.03,2065.29,Two year,Fiber,Yes,UPI,No
+C01947,Male,50,17,125.78,2138.26,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01948,Female,23,63,48.22,3037.86,Month-to-Month,DSL,No,Auto-Debit,No
+C01949,Female,44,36,90.46,3256.56,Month-to-Month,5G,No,Credit Card,No
+C01950,Male,40,8,145.87,1166.96,Month-to-Month,5G,Yes,Auto-Debit,Yes
+C01951,Female,44,69,39.22,2706.18,Month-to-Month,DSL,No,Auto-Debit,No
+C01952,Male,51,36,142.31,5123.16,Two year,5G,Yes,UPI,No
+C01953,Male,63,28,43.78,1225.84,Month-to-Month,Fiber,Yes,Credit Card,No
+C01954,Female,55,47,93.77,4407.19,Month-to-Month,Fiber,Yes,UPI,No
+C01955,Male,31,30,69.01,2070.3,Month-to-Month,Fiber,No,Credit Card,Yes
+C01956,Male,53,23,145.44,3345.12,Month-to-Month,DSL,No,Auto-Debit,No
+C01957,Female,25,16,55.56,888.96,One year,Fiber,No,Credit Card,No
+C01958,Male,52,14,71.96,1007.44,One year,DSL,Yes,Credit Card,No
+C01959,Male,36,71,147.77,10491.67,One year,DSL,Yes,Credit Card,Yes
+C01960,Male,47,52,89.74,4666.48,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01961,Female,31,37,85.34,3157.58,Month-to-Month,5G,Yes,UPI,No
+C01962,Male,37,29,53.51,1551.79,Month-to-Month,DSL,Yes,UPI,No
+C01963,Female,66,67,111.18,7449.06,Month-to-Month,Fiber,No,UPI,No
+C01964,Female,42,15,21.87,328.05,One year,Fiber,No,Auto-Debit,Yes
+C01965,Male,57,47,26.44,1242.68,Month-to-Month,DSL,Yes,Credit Card,No
+C01966,Male,41,46,97.92,4504.32,One year,Fiber,Yes,UPI,No
+C01967,Male,31,52,64.42,3349.84,Month-to-Month,Fiber,Yes,UPI,No
+C01968,Female,43,19,143.93,2734.67,One year,DSL,No,Credit Card,Yes
+C01969,Male,55,21,137.41,2885.61,Two year,5G,No,Credit Card,No
+C01970,Male,40,64,112.78,7217.92,One year,Fiber,No,Credit Card,No
+C01971,Male,39,37,126.36,4675.32,Month-to-Month,5G,Yes,Credit Card,No
+C01972,Male,65,27,106.75,2882.25,Two year,5G,Yes,Credit Card,Yes
+C01973,Male,36,55,36.33,1998.15,One year,Fiber,No,Credit Card,No
+C01974,Female,63,29,119.52,3466.08,Month-to-Month,DSL,No,UPI,No
+C01975,Female,68,20,47.32,946.4,Month-to-Month,Fiber,Yes,Credit Card,No
+C01976,Male,20,25,62.05,1551.25,One year,Fiber,Yes,Credit Card,No
+C01977,Male,59,70,126.5,8855,One year,DSL,Yes,Auto-Debit,No
+C01978,Male,36,63,89.75,5654.25,Month-to-Month,DSL,No,UPI,No
+C01979,Male,26,36,131.79,4744.44,Month-to-Month,Fiber,No,Credit Card,Yes
+C01980,Female,45,2,47.69,95.38,Two year,5G,No,UPI,No
+C01981,Male,37,22,99.01,2178.22,Month-to-Month,DSL,Yes,Credit Card,No
+C01982,Female,62,16,30.89,494.24,Month-to-Month,5G,Yes,Credit Card,Yes
+C01983,Female,24,18,103.6,1864.8,Month-to-Month,Fiber,Yes,Credit Card,Yes
+C01984,Male,31,69,119.13,8219.97,One year,5G,No,Auto-Debit,Yes
+C01985,Female,26,54,96.04,5186.16,Month-to-Month,Fiber,Yes,Auto-Debit,No
+C01986,Female,36,30,54.61,1638.3,One year,Fiber,No,Auto-Debit,No
+C01987,Female,64,45,24.07,1083.15,Month-to-Month,DSL,Yes,Auto-Debit,No
+C01988,Female,69,19,35.53,675.07,One year,DSL,No,Auto-Debit,No
+C01989,Male,31,34,100.9,3430.6,One year,DSL,No,Auto-Debit,No
+C01990,Male,55,13,141.47,1839.11,Month-to-Month,Fiber,Yes,UPI,No
+C01991,Female,53,43,46.85,2014.55,Month-to-Month,Fiber,No,Credit Card,No
+C01992,Male,57,62,115.55,7164.1,Month-to-Month,DSL,Yes,Credit Card,No
+C01993,Male,34,22,132.64,2918.08,Month-to-Month,Fiber,Yes,UPI,Yes
+C01994,Male,47,52,87.71,4560.92,One year,DSL,Yes,UPI,No
+C01995,Male,26,52,107,5564,Month-to-Month,Fiber,No,Auto-Debit,No
+C01996,Male,50,36,125.95,4534.2,One year,5G,No,UPI,Yes
+C01997,Female,69,19,53.89,1023.91,Month-to-Month,DSL,Yes,UPI,No
+C01998,Male,42,38,58.6,2226.8,Month-to-Month,DSL,No,UPI,Yes
+C01999,Male,31,70,20.08,1405.6,Month-to-Month,5G,No,Credit Card,No
+C02000,Male,28,57,145.2,8276.4,Month-to-Month,DSL,No,UPI,No
